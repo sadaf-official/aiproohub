@@ -152,7 +152,7 @@ FOOTER = """<footer class="site"><div class="container footer-grid">
 <div><a class="brand" href="/">AI<span>Proo</span>hub</a><br><small>AI tools, made simple.</small></div>
 <div><ul><li><a href="/products/ai-prompts-real-estate-agents.html">AI Prompt Pack for Real Estate Agents</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><ul><li><a href="/contact.html">Contact</a></li><li><a href="https://wa.me/923418289801" target="_blank" rel="noopener">WhatsApp orders</a></li></ul></div>
-</div><div class="container mt"><small>&copy; 2026 AIProohub.com — AI Toolkit Pro. All rights reserved.</small></div></footer>"""
+</div><div class="container mt"><small>&copy; 2026 AIProohub.com. All rights reserved.</small></div></footer>"""
 
 def head_tags(title, description, url, og_type="website", keywords=""):
     kw = f'\n<meta name="keywords" content="{html.escape(keywords)}">' if keywords else ""
