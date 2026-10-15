@@ -202,7 +202,7 @@ def article_page(meta, body_html):
 </div>
 <div class="cta-box">
 <h3>Write listings, ads &amp; emails in minutes</h3>
-<p>The <strong>AI Prompt Pack for Real Estate Agents</strong> gives you 152 copy-paste prompts built exclusively for real estate — $39, yours forever.</p>
+<p>The <strong>AI Prompt Pack for Real Estate Agents</strong> gives you 202 copy-paste prompts built exclusively for real estate — $39, yours forever.</p>
 <p class="mt"><a class="btn" href="/products/ai-prompts-real-estate-agents.html">See what's inside</a></p>
 </div>
 </section></main>
