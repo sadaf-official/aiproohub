@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AIProohub.com blog engine.
+AIPrOoHub blog engine.
 
 Usage:
     python3 build.py                                   # build from content/articles/
@@ -139,7 +139,7 @@ def parse_article(path):
 # ---------------------------------------------------------------- templates
 
 NAV = """<header class="site"><nav class="nav">
-<a class="brand" href="/">AI<span>Proo</span>hub</a>
+<a class="brand" href="/">AI<span>PrOo</span>Hub</a>
 <ul class="nav-links">
 <li><a href="/">Home</a></li>
 <li><a href="/products/ai-prompts-real-estate-agents.html">Products</a></li>
@@ -149,20 +149,20 @@ NAV = """<header class="site"><nav class="nav">
 </ul></nav></header>"""
 
 FOOTER = """<footer class="site"><div class="container footer-grid">
-<div><a class="brand" href="/">AI<span>Proo</span>hub</a><br><small>AI tools, made simple.</small></div>
+<div><a class="brand" href="/">AI<span>PrOo</span>Hub</a><br><small>AI tools, made simple.</small></div>
 <div><ul><li><a href="/products/ai-prompts-real-estate-agents.html">AI Prompt Pack for Real Estate Agents</a></li><li><a href="/blog/">Blog</a></li><li><a href="/about.html">About</a></li></ul></div>
 <div><ul><li><a href="/contact.html">Contact</a></li><li><a href="https://wa.me/923418289801" target="_blank" rel="noopener">WhatsApp orders</a></li></ul></div>
-</div><div class="container mt"><small>&copy; 2026 AIProohub.com. All rights reserved.</small></div></footer>"""
+</div><div class="container mt"><small>&copy; 2026 AIPrOoHub. All rights reserved.</small></div></footer>"""
 
 def head_tags(title, description, url, og_type="website", keywords=""):
     kw = f'\n<meta name="keywords" content="{html.escape(keywords)}">' if keywords else ""
     return f"""<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{html.escape(title)} — AIProohub</title>
+<title>{html.escape(title)} — AIPrOoHub</title>
 <meta name="description" content="{html.escape(description)}">{kw}
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="{og_type}">
-<meta property="og:site_name" content="AIProohub">
+<meta property="og:site_name" content="AIPrOoHub">
 <meta property="og:title" content="{html.escape(title)}">
 <meta property="og:description" content="{html.escape(description)}">
 <meta property="og:url" content="{url}">
@@ -183,7 +183,7 @@ def article_page(meta, body_html):
         "headline": meta["title"],
         "description": meta["description"],
         "datePublished": meta["date"],
-        "author": {"@type": "Organization", "name": "AIProohub"},
+        "author": {"@type": "Organization", "name": "AIPrOoHub"},
     }
     import json
     return f"""<!DOCTYPE html>
