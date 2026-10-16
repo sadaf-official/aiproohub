@@ -1,8 +1,14 @@
+---
+description: "Rental listing copy with AI: descriptions, headlines, and screening-friendly language that fill vacancies faster."
+---
+
 # Rental Listing Copy With AI: Fill Vacancies Faster (2026)
 
 *Meta: How to write rental listing copy with AI — compliant ads, tenant attraction, screening language, and the vacancy-reducing system.*
 
 Every vacant month costs 8% of annual rent. Great rental copy fills units faster — and AI writes it in minutes. Here's the rental-specific system.
+
+![Modern apartment building at golden hour for AI rental listing copy that fills vacancies](/assets/blog/art-19-rental-listings-ai-copy.webp)
 
 ## Rental Copy vs. Sales Copy (Key Differences)
 

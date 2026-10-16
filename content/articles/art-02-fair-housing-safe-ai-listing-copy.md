@@ -1,8 +1,14 @@
+---
+description: "Write fair-housing-safe listing copy with AI: the compliance guide for agents — risky phrases to avoid, safe rewrites, and a pre-publish checklist."
+---
+
 # Fair-Housing-Safe AI Listing Copy: The Agent's Compliance Guide (2026)
 
 *Meta: How to use AI for real estate listings without violating fair housing law — risky phrases, safe rewrites, screening prompts, and the human-review rule.*
 
 AI is a phenomenal listing copywriter. It's also completely ignorant of fair-housing law — and its training data is full of decades of non-compliant real estate copy. That combination makes this guide the most important article in our entire cluster. Read it before you publish a single AI-assisted word.
+
+![Sunset over a welcoming suburban street, illustrating fair-housing-safe AI listing copy for agents](/assets/blog/art-02-fair-housing-safe-ai-listing-copy.webp)
 
 **Disclaimer:** This is practical guidance, not legal advice. Fair-housing law varies by state and locality. When in doubt, consult your broker and a real estate attorney.
 

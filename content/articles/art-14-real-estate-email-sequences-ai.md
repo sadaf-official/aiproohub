@@ -1,8 +1,14 @@
+---
+description: "Real estate email sequences with AI: the complete system — nurture, re-engagement, and post-closing drips that keep your pipeline warm."
+---
+
 # Real Estate Email Sequences With AI: The Complete System (2026)
 
 *Meta: The complete AI-powered email system for real estate agents — new lead follow-up, post-showing, past-client nurture, referral sequences, and the templates.*
 
 Email is the highest-ROI channel in real estate — and the most neglected. These sequences, all AI-draftable in minutes, turn your inbox from chaos into a closing machine.
+
+![Real estate email sequences managed in a laptop inbox with warm morning light](/assets/blog/art-14-real-estate-email-sequences-ai.webp)
 
 ## Sequence 1: New Lead Follow-Up (Speed + Substance)
 

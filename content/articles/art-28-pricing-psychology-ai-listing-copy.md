@@ -1,8 +1,14 @@
+---
+description: "Pricing psychology in listing copy with AI: charm pricing, anchoring, and framing techniques that make your price feel right."
+---
+
 # Pricing Psychology in Listing Copy With AI (2026)
 
 *Meta: How pricing psychology shapes real estate listing copy — charm pricing, anchoring, framing, and the AI prompts that apply them ethically.*
 
 Price is a number; pricing is psychology. The same $489,000 feels different framed different ways — and your listing copy controls the frame. Here's how AI applies pricing psychology ethically.
+
+![Pricing psychology concept with a blank price tag on the door of an elegant home](/assets/blog/art-28-pricing-psychology-ai-listing-copy.webp)
 
 ## The Core Principles
 

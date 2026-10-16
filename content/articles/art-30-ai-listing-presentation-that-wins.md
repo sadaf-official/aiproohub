@@ -1,8 +1,14 @@
+---
+description: "The AI listing presentation that wins: slides, scripts, and leave-behinds that help you walk out with the signed agreement."
+---
+
 # The AI Listing Presentation That Wins (2026)
 
 *Meta: How to build a winning listing presentation with AI — structure, marketing plan, CMA narrative, objection handling, and the close.*
 
 The listing presentation is the highest-stakes 25 minutes in real estate. Win it, and you earn $8,000–$25,000. AI helps you prepare like you've done it a hundred times — even if it's your tenth.
+
+![Agent delivering an AI-powered listing presentation that wins the listing](/assets/blog/art-30-ai-listing-presentation-that-wins.webp)
 
 ## The 25-Minute Structure
 

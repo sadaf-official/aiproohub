@@ -1,8 +1,13 @@
-# Seasonal Listing Refresh With AI: New Copy for Every Season (2026)
+---
+title: "How to Refresh a Stale Listing: Seasonal Copy That Sells Year-Round (2026)"
+description: "Refresh a stale listing with AI: seasonal copy angles for spring, summer, fall, and winter that make old listings feel new again."
+---
 
 *Meta: How to refresh listing descriptions for each season with AI — spring, summer, fall, winter angles, plus holiday and event-based refreshes.*
 
 A listing that sat through winter needs spring copy. Seasonal refreshes re-energize stale listings, attract seasonal buyers, and give you a reason to re-promote. AI does each refresh in 5 minutes.
+
+![Charming home with autumn curb appeal for a seasonal stale-listing refresh](/assets/blog/art-22-seasonal-listing-refresh-ai.webp)
 
 ## Spring: The Renewal Season
 

@@ -1,8 +1,14 @@
+---
+description: "FSBO outreach with AI that works without being spammy: scripts, letters, and follow-up sequences that convert for-sale-by-owners."
+---
+
 # FSBO Outreach With AI: Effective Without Being Spammy (2026)
 
 *Meta: How to use AI prompts for FSBO outreach that actually gets responses — respectful scripts, value-first sequences, and the follow-up system.*
 
 For Sale By Owner sellers are the most approached — and most annoyed — prospects in real estate. They get 20 calls a day from agents reading the same script. AI lets you be the one outreach that doesn't sound like the other 19.
+
+![Real estate agent doing FSBO outreach at a suburban front door in warm afternoon light](/assets/blog/art-08-fsbo-outreach-ai-without-spammy.webp)
 
 ## Why Most FSBO Outreach Fails
 

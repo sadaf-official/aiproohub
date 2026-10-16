@@ -1,8 +1,14 @@
+---
+description: "The open house marketing playbook with AI: invitations, signage copy, follow-up sequences, and reminders that fill the rooms."
+---
+
 # The Open House Marketing Playbook With AI (2026)
 
 *Meta: The complete AI-powered open house system — 2-week promotion sequence, day-of scripts, sign-in follow-up, and the neighbor strategy.*
 
 The open house isn't dead — bad open house marketing is. A strategic open house with AI-powered promotion draws 30+ visitors and generates buyer leads for months. Here's the complete playbook.
+
+![Open house marketing with balloons as visitors arrive at a beautiful listed home](/assets/blog/art-12-open-house-marketing-ai-playbook.webp)
 
 ## Two Weeks Out: The Announcement Sequence
 

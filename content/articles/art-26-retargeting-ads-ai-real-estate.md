@@ -1,8 +1,14 @@
+---
+description: "Retargeting ads for real estate with AI: ad copy and creative angles that bring website visitors back as leads."
+---
+
 # Retargeting Ads for Real Estate With AI (2026)
 
 *Meta: How to write retargeting ad copy for real estate with AI — the 3-ad sequence, audience segmentation, frequency strategy, and copy that converts.*
 
 97% of website visitors leave without contacting you. Retargeting brings them back — and AI writes the sequence that converts the return visit into a showing.
+
+![Real estate retargeting ads shown on a laptop and phone featuring the same listing](/assets/blog/art-26-retargeting-ads-ai-real-estate.webp)
 
 ## How Retargeting Works (The 60-Second Version)
 

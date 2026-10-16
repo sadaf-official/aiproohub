@@ -1,8 +1,14 @@
+---
+description: "AI for buyer agents: prompts and workflows from first consultation to close — buyer guides, showing follow-up, and offer emails."
+---
+
 # AI for Buyer Agents: From Consultation to Close (2026)
 
 *Meta: How buyer agents use AI prompts for consultations, property matching, offer strategy, objection handling, and closing — the complete buyer-side playbook.*
 
 Listing agents get the AI spotlight, but buyer agents may benefit more. The buyer side is communication-heavy: consultations, property briefs, offer letters, inspection negotiations, closing coordination. Every one of those is a writing task — and writing tasks are what AI prompts do best.
+
+![Buyer agent handing house keys to a happy couple at closing, from consultation to close](/assets/blog/art-07-ai-for-buyer-agents-consultation-to-close.webp)
 
 ## The Buyer Consultation (Your Highest-Leverage Hour)
 

@@ -1,8 +1,13 @@
-# Make AI Sound Like You: The 3-Minute Voice Training Method (2026)
+---
+title: "How to Make AI Sound Like You: Train ChatGPT on Your Writing Style (2026)"
+description: "Make ChatGPT sound like you: the 3-minute voice training method that fixes robotic AI copy using your own writing samples."
+---
 
 *Meta: How to train AI to write in your voice — the 3-minute method that fixes robotic AI copy permanently, with examples.*
 
 "AI writes like a robot" is the #1 objection agents raise — and it's 100% fixable in 3 minutes. The method is called voice training: you show the AI how you write, it studies the patterns, and every future output sounds like you on your best day.
+
+![Vintage microphone and notebook for training ChatGPT to write in your voice and style](/assets/blog/art-11-make-ai-sound-like-you-voice-training.webp)
 
 ## Why AI Sounds Robotic (The Real Reason)
 

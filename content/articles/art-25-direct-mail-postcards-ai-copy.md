@@ -1,8 +1,13 @@
-# Direct Mail & Postcards With AI Copy (2026)
+---
+title: "Real Estate Postcard Ideas: AI Direct Mail Copy That Gets Kept (2026)"
+description: "Real estate postcard ideas with AI-written copy: just-listed, just-sold, market updates, and farming sequences that survive the mailbox."
+---
 
 *Meta: How to write direct mail and postcards for real estate with AI — just-listed, just-sold, farming sequences, and the copy that gets kept.*
 
 Direct mail isn't dead — bad direct mail is. The average American gets 2 pieces of relevant mail a week; yours can be one of them. AI writes the copy; the mailbox does the rest.
+
+![Real estate direct mail postcards with home photos stacked beside a mailbox](/assets/blog/art-25-direct-mail-postcards-ai-copy.webp)
 
 ## Why Mail Still Works
 

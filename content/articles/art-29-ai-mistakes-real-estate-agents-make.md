@@ -1,8 +1,14 @@
+---
+description: "The AI mistakes real estate agents make — and how to avoid them: hallucinations, fair-housing risks, and robotic copy traps."
+---
+
 # AI Mistakes Real Estate Agents Make (And How to Avoid Them) (2026)
 
 *Meta: The 7 most common AI mistakes real estate agents make — vague prompts, no review, skipping compliance, quitting early — and the fix for each.*
 
 AI is a power tool. Used wrong, it produces generic copy, compliance risks, and wasted time. Here are the 7 mistakes agents make — and exactly how to avoid each.
+
+![Real estate agent reviewing AI output on a laptop, avoiding common AI mistakes](/assets/blog/art-29-ai-mistakes-real-estate-agents-make.webp)
 
 ## Mistake #1: Vague Prompts ("Write me a listing description")
 

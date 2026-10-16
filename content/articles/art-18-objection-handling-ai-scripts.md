@@ -1,8 +1,14 @@
+---
+description: "Objection handling with AI scripts: the agent's response playbook for stalls, commission pushback, and timing objections."
+---
+
 # Objection Handling With AI Scripts: The Agent's Response Playbook (2026)
 
 *Meta: The 15 most common real estate objections — buyer and seller — with AI-built response frameworks. Never freeze on an objection again.*
 
 Objections aren't rejections — they're requests for more information. The agents who handle them calmly close; the agents who freeze lose. AI builds your response frameworks so you never freeze again.
+
+![Agent handling client objections in a warm, reassuring living room conversation](/assets/blog/art-18-objection-handling-ai-scripts.webp)
 
 ## The Framework (Memorize This)
 

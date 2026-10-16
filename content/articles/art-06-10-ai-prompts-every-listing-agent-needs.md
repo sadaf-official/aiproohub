@@ -1,8 +1,14 @@
+---
+description: "10 AI prompts every listing agent needs in 2026: descriptions, headlines, seller updates, and objection handlers — copy, paste, customize."
+---
+
 # 10 AI Prompts Every Listing Agent Needs (2026)
 
 *Meta: The 10 essential AI prompts for listing agents — the exact prompts for descriptions, headlines, luxury copy, compliance, social, and follow-up.*
 
 If you only ever learn 10 AI prompts, make them these. They're the highest-leverage prompts in a listing agent's arsenal — the ones that handle 80% of your marketing workload. (All ten are included in our [200+ prompt pack](https://aiproohub.com/products/ai-prompts-real-estate-agents.html); five are in the [free 15-prompt sample](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).)
+
+![Checklist notebook with the 10 AI prompts every listing agent needs beside a model home](/assets/blog/art-06-10-ai-prompts-every-listing-agent-needs.webp)
 
 ## 1. The Hero Listing Prompt
 

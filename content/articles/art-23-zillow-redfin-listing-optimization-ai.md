@@ -1,8 +1,14 @@
+---
+description: "Zillow and Redfin listing optimization with AI: descriptions, photo captions, and details that rank higher and earn the click."
+---
+
 # Zillow & Redfin Listing Optimization With AI (2026)
 
 *Meta: How to optimize your listings for Zillow and Redfin with AI — keyword strategy, photo order, description formats, and the portal-specific playbook.*
 
 Zillow gets 200M+ monthly visitors. Redfin dominates search in many markets. Your MLS description syndicates to both — but syndicated isn't optimized. Portal-specific AI copy gets more views, saves, and showing requests.
+
+![Optimizing Zillow and Redfin listings on a laptop showing a home location map](/assets/blog/art-23-zillow-redfin-listing-optimization-ai.webp)
 
 ## How Portal Search Works
 

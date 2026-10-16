@@ -1,8 +1,13 @@
-# Turn Testimonials Into Ads With AI (2026)
+---
+title: "Real Estate Social Proof: Turn Client Testimonials Into Ads With AI (2026)"
+description: "Turn client testimonials into high-converting real estate ads with AI: the collection system, ad formats, and permission scripts."
+---
 
 *Meta: How to transform client testimonials into high-converting ads with AI — the testimonial engine, ad formats, permission scripts, and compliance.*
 
 Your clients' words sell better than yours ever will. The testimonial engine turns every 5-star review into ad creative, social proof, and listing presentations — automatically.
+
+![Happy clients celebrating with their agent, turning testimonials into real estate ads](/assets/blog/art-27-testimonials-into-ads-ai.webp)
 
 ## The Collection System (Get More Testimonials)
 

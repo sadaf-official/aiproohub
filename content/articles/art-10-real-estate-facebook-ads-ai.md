@@ -1,8 +1,14 @@
+---
+description: "Real estate Facebook ads with AI: copy frameworks, hooks, and creative angles that convert scrollers into seller and buyer leads."
+---
+
 # Real Estate Facebook Ads With AI: Copy That Converts (2026)
 
 *Meta: How to write Facebook and Instagram ad copy for real estate with AI — hooks, pre-qualifying copy, lead forms, and the testing system.*
 
 Most agent Facebook ads fail before the budget spends: generic copy ("Beautiful 4BR home!"), no hook, no pre-qualification — just curiosity clicks that never become showings. AI fixes the copy problem in minutes. Here's the system.
+
+![Real estate Facebook ad creative viewed on a smartphone showing a home listing photo](/assets/blog/art-10-real-estate-facebook-ads-ai.webp)
 
 ## The Anatomy of a Converting Agent Ad
 

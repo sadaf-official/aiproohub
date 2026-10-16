@@ -1,8 +1,14 @@
+---
+description: "AI for real estate team leaders: recruiting posts, training content, and agent-attraction systems that grow your roster."
+---
+
 # AI for Team Leaders: Recruiting, Training & Content Systems (2026)
 
 *Meta: How real estate team leaders use AI for agent recruiting, onboarding, training content, and team-wide marketing systems.*
 
 Team leaders face a unique challenge: your output must scale across people, not just hours. AI is the force multiplier — standardizing quality, accelerating onboarding, and systematizing recruiting. Here's the team leader's AI playbook.
+
+![Real estate team leaders in a recruiting and training meeting with AI content systems](/assets/blog/art-21-ai-for-team-leaders-recruiting-content.webp)
 
 ## Recruiting Content (The Magnet)
 

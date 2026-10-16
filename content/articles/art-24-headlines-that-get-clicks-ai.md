@@ -1,8 +1,14 @@
+---
+description: "Real estate headlines that get clicks: AI-powered listing titles, email subject lines, and ad hooks with proven formulas."
+---
+
 # Headlines That Get Clicks: AI-Powered Real Estate Titles (2026)
 
 *Meta: How to write real estate headlines with AI — listing titles, email subjects, ad headlines, blog titles, and the psychology behind clicks.*
 
 The headline is the gatekeeper. No click, no view, no showing, no offer. AI generates headline options in batches — you pick winners. Here's the psychology and the system.
+
+![AI-powered real estate headlines and titles drafted on a laptop that get clicks](/assets/blog/art-24-headlines-that-get-clicks-ai.webp)
 
 ## The 5 Headline Psychologies
 

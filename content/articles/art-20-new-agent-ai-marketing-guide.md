@@ -1,8 +1,14 @@
+---
+description: "The new agent's AI marketing guide: go from zero to a working marketing system in 90 days with copy-paste prompts."
+---
+
 # New Agent's AI Marketing Guide: From Zero to System in 90 Days (2026)
 
 *Meta: The new real estate agent's guide to AI marketing — the 90-day plan, essential prompts, budget strategy, and how to compete with veterans from day one.*
 
 New agents face a brutal paradox: you need marketing to get clients, but you need clients to afford marketing. AI breaks the paradox — a complete marketing system for the cost of a few coffees a month. Here's your 90-day plan.
+
+![New real estate agent building a 90-day AI marketing system at a bright desk](/assets/blog/art-20-new-agent-ai-marketing-guide.webp)
 
 ## Days 1–30: Foundation
 

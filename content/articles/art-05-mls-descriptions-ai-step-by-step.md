@@ -1,8 +1,14 @@
+---
+description: "How to write MLS descriptions with AI, step by step: the prompt workflow that turns bland listing remarks into buyer-magnet copy."
+---
+
 # How to Write MLS Descriptions With AI: Step-by-Step (2026)
 
 *Meta: The exact step-by-step process for writing MLS listing descriptions with AI — from fact-gathering to final review — in 10 minutes per listing.*
 
 The MLS description is the hardest-working 180 words in real estate. It determines who clicks, who shows up, and often who offers. Here's the exact step-by-step process to write a great one with AI in 10 minutes — the same process behind our [10 essential listing prompts](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html).
+
+![Writing MLS descriptions with AI on a laptop showing an elegant home interior photo](/assets/blog/art-05-mls-descriptions-ai-step-by-step.webp)
 
 ## Step 1: Gather Facts (3 minutes)
 

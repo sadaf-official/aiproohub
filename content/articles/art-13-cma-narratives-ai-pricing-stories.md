@@ -1,8 +1,13 @@
-# CMA Narratives With AI: Pricing Stories That Win Listings (2026)
+---
+title: "How to Present a CMA to Sellers: AI Pricing Narratives That Win Listings (2026)"
+description: "Present your CMA like a story, not a spreadsheet: AI-crafted pricing narratives that help sellers trust your number and list with you."
+---
 
 *Meta: How to turn comparative market analyses into compelling pricing narratives with AI — the story-driven CMA that wins listings at full commission.*
 
 The traditional CMA is a 40-page comp printout that makes sellers' eyes glaze over. The AI-powered CMA is a pricing STORY — with a beginning, a middle, and a number the seller believes in. Guess which one wins listings.
+
+![Agent presenting a CMA pricing narrative with charts to sellers at their kitchen table](/assets/blog/art-13-cma-narratives-ai-pricing-stories.webp)
 
 ## Why Narratives Beat Numbers
 

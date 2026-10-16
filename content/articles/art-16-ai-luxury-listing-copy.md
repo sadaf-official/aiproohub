@@ -1,8 +1,14 @@
+---
+description: "AI for luxury listing copy: words worthy of the property — elevated descriptions, amenity storytelling, and high-end tone without cliches."
+---
+
 # AI for Luxury Listing Copy: Words Worthy of the Property (2026)
 
 *Meta: How to write luxury real estate listing copy with AI — elevated vocabulary, lifestyle framing, prestige cues, and the mistakes that cheapen high-end listings.*
 
 Luxury copy isn't standard copy with fancier adjectives. It's a different language — one of restraint, specificity, and lifestyle implication. AI can speak it fluently, but only with the right prompts. Here's how.
+
+![Luxury mansion at dusk with glowing windows for AI-written luxury listing copy](/assets/blog/art-16-ai-luxury-listing-copy.webp)
 
 ## The Luxury Vocabulary (Use Sparingly)
 

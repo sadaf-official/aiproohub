@@ -1,8 +1,14 @@
+---
+description: "Video scripts for agents: AI-written Reels, TikTok, and Shorts scripts with hooks, shot lists, and captions that stop the scroll."
+---
+
 # Video Scripts for Agents: Reels, TikTok & Shorts With AI (2026)
 
 *Meta: How real estate agents write video scripts with AI — hooks, 30-second formats, listing tours, educational videos, and the batch filming system.*
 
 Video is the highest-leverage content an agent can make — and the most avoided. "I don't know what to say" is the barrier. AI removes it: hooks, scripts, captions, all generated. You just film.
+
+![Real estate agent filming Reels and TikTok video scripts with a phone gimbal](/assets/blog/art-17-video-scripts-agents-reels-tiktok.webp)
 
 ## The 30-Second Script Formula
 

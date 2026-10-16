@@ -1,6 +1,6 @@
 ---
 title: "The Complete Guide to AI Prompts for Real Estate Agents (2026)"
-description: "The Complete Guide to AI Prompts for Real Estate Agents (2026)"
+description: "The complete 2026 guide to AI prompts for real estate agents: listing copy, ads, emails, and social content frameworks top producers use daily."
 date: 2026-10-16
 slug: ai-prompts-for-real-estate-agents
 ---
@@ -8,6 +8,8 @@ slug: ai-prompts-for-real-estate-agents
 *Meta: Everything a real estate agent needs to know about using AI prompts for listings, marketing, emails, and client communication — plus the exact prompt frameworks top producers use daily.*
 
 If you've watched another agent post daily content, answer leads in minutes, and write listing descriptions that read like magazine features — while you're still staring at a blank MLS description box — this guide is for you.
+
+![Real estate agent using AI prompts on a laptop to write listing copy in a warm home office](/assets/blog/ai-prompts-for-real-estate-agents.webp)
 
 They're not working harder. They're not more creative. They're using AI prompts engineered for real estate, and this guide will show you exactly how it works: what prompts are, the anatomy of a great one, the frameworks for every part of your business, the fair-housing guardrails you must know, and the workflows that turn 10 minutes a day into a full marketing department.
 

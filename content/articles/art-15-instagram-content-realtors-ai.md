@@ -1,8 +1,14 @@
+---
+description: "Instagram content for realtors with AI: the growth system — Reels ideas, captions, hashtags, and a posting rhythm that builds local authority."
+---
+
 # Instagram Content for Realtors With AI: The Growth System (2026)
 
 *Meta: How real estate agents grow on Instagram with AI — content pillars, caption formulas, Reel scripts, hashtag strategy, and the 30-day plan.*
 
 Instagram is the modern agent's storefront. But "post more" isn't a strategy. This is: content pillars, AI-generated captions, Reel scripts, and a system that takes 30 minutes a day.
+
+![Realtor creating Instagram content by filming a living room tour on a smartphone tripod](/assets/blog/art-15-instagram-content-realtors-ai.webp)
 
 ## The 5 Content Pillars
 

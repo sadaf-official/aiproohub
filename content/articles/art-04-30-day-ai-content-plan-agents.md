@@ -1,8 +1,14 @@
+---
+description: "A 30-day AI content plan for real estate agents: daily prompts for listings, social posts, emails, and video scripts that build your pipeline."
+---
+
 # The 30-Day AI Content Plan for Real Estate Agents
 
 *Meta: A day-by-day 30-day content calendar for agents using AI — what to post, what prompts to use, and the batch-day system that produces it all in 4 hours.*
 
 "What should I post today?" is the question that kills more agent marketing than any algorithm change. This plan answers it for the next 30 days — with the exact AI prompts to generate each piece and the batch-day system that produces the whole month in one 4-hour session.
+
+![30-day AI content plan calendar with coffee and a model home on a real estate agent's desk](/assets/blog/art-04-30-day-ai-content-plan-agents.webp)
 
 ## The Weekly Rhythm (Memorize This)
 
