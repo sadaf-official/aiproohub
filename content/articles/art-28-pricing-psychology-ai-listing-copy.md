@@ -1,4 +1,6 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "Pricing psychology in listing copy with AI: charm pricing, anchoring, and framing techniques that make your price feel right."
 ---
 
@@ -69,7 +71,7 @@ Anchor writer, value-stack builder, repositioning announcer, buyer prepper, esca
 
 ---
 
-*Related: [CMA Narratives](/blog/art-13-cma-narratives-ai-pricing-stories.html) · [Luxury Copy](/blog/art-16-ai-luxury-listing-copy.html) · [Seasonal Refresh](/blog/art-22-seasonal-listing-refresh-ai.html)*
+*Related: [CMA Narratives](/blog/art-13-cma-narratives-ai-pricing-stories.html) · [Luxury Copy](/blog/art-16-ai-luxury-listing-copy.html) · [Seasonal Refresh](/blog/art-22-seasonal-listing-refresh-ai.html) · [Rental Listings AI Copy](/blog/art-19-rental-listings-ai-copy.html)*
 
 ## Negotiation Psychology (The Offer Dance)
 

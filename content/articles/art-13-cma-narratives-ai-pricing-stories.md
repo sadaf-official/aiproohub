@@ -1,5 +1,7 @@
 ---
-title: "How to Present a CMA to Sellers: AI Pricing Narratives That Win Listings (2026)"
+date: 2026-10-16
+updated: 2026-10-17
+title: "How to Present a CMA: AI Narratives That Win Listings (2026)"
 description: "Present your CMA like a story, not a spreadsheet: AI-crafted pricing narratives that help sellers trust your number and list with you."
 ---
 

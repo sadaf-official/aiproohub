@@ -1,8 +1,10 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "AI for real estate team leaders: recruiting posts, training content, and agent-attraction systems that grow your roster."
 ---
 
-# AI for Team Leaders: Recruiting, Training & Content Systems (2026)
+# AI for Team Leaders: Recruiting & Content Systems (2026)
 
 *Meta: How real estate team leaders use AI for agent recruiting, onboarding, training content, and team-wide marketing systems.*
 

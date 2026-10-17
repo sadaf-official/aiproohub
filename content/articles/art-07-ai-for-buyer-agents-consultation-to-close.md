@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "AI for buyer agents: prompts and workflows from first consultation to close — buyer guides, showing follow-up, and offer emails."
 ---
 

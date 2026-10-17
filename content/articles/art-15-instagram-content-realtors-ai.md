@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Instagram content for realtors with AI: the growth system — Reels ideas, captions, hashtags, and a posting rhythm that builds local authority."
 ---
 

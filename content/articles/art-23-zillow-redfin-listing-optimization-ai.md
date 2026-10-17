@@ -1,4 +1,6 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "Zillow and Redfin listing optimization with AI: descriptions, photo captions, and details that rank higher and earn the click."
 ---
 
@@ -72,7 +74,7 @@ Zillow adapter, Redfin adapter, keyword identifier, photo order planner, caption
 
 ---
 
-*Related: [MLS Descriptions Step by Step](/blog/art-05-mls-descriptions-ai-step-by-step.html) · [Headlines That Get Clicks](/blog/art-24-headlines-that-get-clicks-ai.html) · [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html)*
+*Related: [MLS Descriptions Step by Step](/blog/art-05-mls-descriptions-ai-step-by-step.html) · [Headlines That Get Clicks](/blog/art-24-headlines-that-get-clicks-ai.html) · [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [Rental Listings AI Copy](/blog/art-19-rental-listings-ai-copy.html)*
 
 ## Managing the Zestimate (Proactive, Not Reactive)
 

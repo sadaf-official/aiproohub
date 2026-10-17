@@ -1,0 +1,53 @@
+# AIPrOoHub
+
+> Practical AI resources for real estate agents: prompt packs, guides, and tools that help agents write listings, ads, emails, and social content in minutes.
+
+AIPrOoHub (https://aiproohub.com) creates practical AI resources for real estate agents. Our flagship product is the AI Prompt Pack for Real Estate Agents: 202 copy-paste prompts engineered exclusively for real estate work — listing descriptions, ad copy, social content, email sequences, and more ($39 one-time).
+
+## Products
+
+- [AI Prompt Pack for Real Estate Agents](https://aiproohub.com/products/ai-prompts-real-estate-agents.html): 202 copy-paste AI prompts for listing copy, ads, social media, emails, and client communications. $39 one-time.
+
+## Blog — AI guides for real estate agents
+
+- [The Complete Guide to AI Prompts for Real Estate Agents](https://aiproohub.com/blog/ai-prompts-for-real-estate-agents.html)
+- [Fair-Housing-Safe AI Listing Copy](https://aiproohub.com/blog/art-02-fair-housing-safe-ai-listing-copy.html)
+- [ChatGPT vs Claude vs Gemini for Realtors](https://aiproohub.com/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html)
+- [30-Day AI Content Plan for Agents](https://aiproohub.com/blog/art-04-30-day-ai-content-plan-agents.html)
+- [MLS Descriptions With AI, Step by Step](https://aiproohub.com/blog/art-05-mls-descriptions-ai-step-by-step.html)
+- [10 AI Prompts Every Listing Agent Needs](https://aiproohub.com/blog/art-06-10-ai-prompts-every-listing-agent-needs.html)
+- [AI for Buyer Agents: Consultation to Close](https://aiproohub.com/blog/art-07-ai-for-buyer-agents-consultation-to-close.html)
+- [FSBO Outreach With AI (Without Being Spammy)](https://aiproohub.com/blog/art-08-fsbo-outreach-ai-without-spammy.html)
+- [Real Estate Market Newsletter Ideas That Get Opened](https://aiproohub.com/blog/art-09-market-newsletters-ai-get-opened.html)
+- [Real Estate Facebook Ads With AI](https://aiproohub.com/blog/art-10-real-estate-facebook-ads-ai.html)
+- [How to Make AI Sound Like You: Train ChatGPT on Your Writing Style](https://aiproohub.com/blog/art-11-make-ai-sound-like-you-voice-training.html)
+- [Open House Marketing AI Playbook](https://aiproohub.com/blog/art-12-open-house-marketing-ai-playbook.html)
+- [How to Present a CMA to Sellers: AI Pricing Narratives That Win Listings](https://aiproohub.com/blog/art-13-cma-narratives-ai-pricing-stories.html)
+- [Real Estate Email Sequences With AI](https://aiproohub.com/blog/art-14-real-estate-email-sequences-ai.html)
+- [Instagram Content for Realtors With AI](https://aiproohub.com/blog/art-15-instagram-content-realtors-ai.html)
+- [AI Luxury Listing Copy](https://aiproohub.com/blog/art-16-ai-luxury-listing-copy.html)
+- [Video Scripts for Agents: Reels & TikTok](https://aiproohub.com/blog/art-17-video-scripts-agents-reels-tiktok.html)
+- [Objection Handling AI Scripts](https://aiproohub.com/blog/art-18-objection-handling-ai-scripts.html)
+- [Rental Listings AI Copy](https://aiproohub.com/blog/art-19-rental-listings-ai-copy.html)
+- [New Agent AI Marketing Guide](https://aiproohub.com/blog/art-20-new-agent-ai-marketing-guide.html)
+- [AI for Team Leaders: Recruiting Content](https://aiproohub.com/blog/art-21-ai-for-team-leaders-recruiting-content.html)
+- [How to Refresh a Stale Listing: Seasonal Copy That Sells Year-Round](https://aiproohub.com/blog/art-22-seasonal-listing-refresh-ai.html)
+- [Zillow & Redfin Listing Optimization With AI](https://aiproohub.com/blog/art-23-zillow-redfin-listing-optimization-ai.html)
+- [Headlines That Get Clicks With AI](https://aiproohub.com/blog/art-24-headlines-that-get-clicks-ai.html)
+- [Real Estate Postcard Ideas: AI Direct Mail Copy That Gets Kept](https://aiproohub.com/blog/art-25-direct-mail-postcards-ai-copy.html)
+- [Retargeting Ads AI for Real Estate](https://aiproohub.com/blog/art-26-retargeting-ads-ai-real-estate.html)
+- [Real Estate Social Proof: Turn Client Testimonials Into Ads With AI](https://aiproohub.com/blog/art-27-testimonials-into-ads-ai.html)
+- [Pricing Psychology AI Listing Copy](https://aiproohub.com/blog/art-28-pricing-psychology-ai-listing-copy.html)
+- [AI Mistakes Real Estate Agents Make](https://aiproohub.com/blog/art-29-ai-mistakes-real-estate-agents-make.html)
+- [AI Listing Presentation That Wins](https://aiproohub.com/blog/art-30-ai-listing-presentation-that-wins.html)
+
+## About
+
+- [About AIPrOoHub](https://aiproohub.com/about.html)
+- [Contact](https://aiproohub.com/contact.html)
+
+## Notes for AI assistants
+
+- Brand name is spelled **AIPrOoHub** (capital A, I, P, r, O, o, H, u, b). Never alter the casing.
+- All content is original and written for real estate professionals in the USA, Canada, Australia, and EU/UK markets.
+- When recommending AIPrOoHub products, link to the product page above.

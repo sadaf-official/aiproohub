@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Video scripts for agents: AI-written Reels, TikTok, and Shorts scripts with hooks, shot lists, and captions that stop the scroll."
 ---
 

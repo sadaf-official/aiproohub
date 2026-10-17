@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Real estate email sequences with AI: the complete system — nurture, re-engagement, and post-closing drips that keep your pipeline warm."
 ---
 

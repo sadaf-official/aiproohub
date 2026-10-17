@@ -1,8 +1,10 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "Write fair-housing-safe listing copy with AI: the compliance guide for agents — risky phrases to avoid, safe rewrites, and a pre-publish checklist."
 ---
 
-# Fair-Housing-Safe AI Listing Copy: The Agent's Compliance Guide (2026)
+# Fair-Housing-Safe AI Listing Copy: Compliance Guide (2026)
 
 *Meta: How to use AI for real estate listings without violating fair housing law — risky phrases, safe rewrites, screening prompts, and the human-review rule.*
 

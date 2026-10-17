@@ -1,5 +1,7 @@
 ---
-title: "Real Estate Social Proof: Turn Client Testimonials Into Ads With AI (2026)"
+date: 2026-10-16
+updated: 2026-10-17
+title: "Social Proof: Turn Testimonials Into Ads With AI (2026)"
 description: "Turn client testimonials into high-converting real estate ads with AI: the collection system, ad formats, and permission scripts."
 ---
 

@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Real estate headlines that get clicks: AI-powered listing titles, email subject lines, and ad hooks with proven formulas."
 ---
 

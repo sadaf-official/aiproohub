@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Rental listing copy with AI: descriptions, headlines, and screening-friendly language that fill vacancies faster."
 ---
 

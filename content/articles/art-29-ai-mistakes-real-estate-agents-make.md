@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "The AI mistakes real estate agents make — and how to avoid them: hallucinations, fair-housing risks, and robotic copy traps."
 ---
 

@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "FSBO outreach with AI that works without being spammy: scripts, letters, and follow-up sequences that convert for-sale-by-owners."
 ---
 

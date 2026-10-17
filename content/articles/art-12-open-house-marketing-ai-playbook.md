@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "The open house marketing playbook with AI: invitations, signage copy, follow-up sequences, and reminders that fill the rooms."
 ---
 

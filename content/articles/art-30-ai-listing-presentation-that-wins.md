@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "The AI listing presentation that wins: slides, scripts, and leave-behinds that help you walk out with the signed agreement."
 ---
 

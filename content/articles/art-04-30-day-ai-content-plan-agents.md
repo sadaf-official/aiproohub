@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "A 30-day AI content plan for real estate agents: daily prompts for listings, social posts, emails, and video scripts that build your pipeline."
 ---
 

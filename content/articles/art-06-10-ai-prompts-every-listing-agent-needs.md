@@ -1,4 +1,6 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "10 AI prompts every listing agent needs in 2026: descriptions, headlines, seller updates, and objection handlers — copy, paste, customize."
 ---
 
@@ -82,7 +84,7 @@ Or skip the ten weeks: the [complete 200+ prompt pack ($39)](https://aiproohub.c
 
 ---
 
-*Related: [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [MLS Step by Step](/blog/art-05-mls-descriptions-ai-step-by-step.html) · [ChatGPT vs Claude vs Gemini](/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html)*
+*Related: [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [MLS Step by Step](/blog/art-05-mls-descriptions-ai-step-by-step.html) · [ChatGPT vs Claude vs Gemini](/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html) · [Rental Listings AI Copy](/blog/art-19-rental-listings-ai-copy.html)*
 
 ## A Listing Launch Week Using Just These 10
 

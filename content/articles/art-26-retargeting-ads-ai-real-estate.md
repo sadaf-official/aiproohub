@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Retargeting ads for real estate with AI: ad copy and creative angles that bring website visitors back as leads."
 ---
 

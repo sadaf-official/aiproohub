@@ -1,5 +1,7 @@
 ---
-title: "How to Refresh a Stale Listing: Seasonal Copy That Sells Year-Round (2026)"
+date: 2026-10-16
+updated: 2026-10-17
+title: "Refresh a Stale Listing: Seasonal Copy That Sells (2026)"
 description: "Refresh a stale listing with AI: seasonal copy angles for spring, summer, fall, and winter that make old listings feel new again."
 ---
 

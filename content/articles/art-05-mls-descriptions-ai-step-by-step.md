@@ -1,4 +1,6 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "How to write MLS descriptions with AI, step by step: the prompt workflow that turns bland listing remarks into buyer-magnet copy."
 ---
 
@@ -91,7 +93,7 @@ This entire process — the hero prompt, the opener generator, the luxury adapte
 
 ---
 
-*Related: [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [10 Prompts Every Listing Agent Needs](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html) · [Fair-Housing-Safe Copy](/blog/art-02-fair-housing-safe-ai-listing-copy.html) · [Headlines That Get Clicks](/blog/art-24-headlines-that-get-clicks-ai.html)*
+*Related: [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [10 Prompts Every Listing Agent Needs](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html) · [Fair-Housing-Safe Copy](/blog/art-02-fair-housing-safe-ai-listing-copy.html) · [Headlines That Get Clicks](/blog/art-24-headlines-that-get-clicks-ai.html) · [Rental Listings AI Copy](/blog/art-19-rental-listings-ai-copy.html)*
 
 ## Adapting for Property Types (Quick Reference)
 

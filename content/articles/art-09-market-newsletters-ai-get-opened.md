@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 title: "Real Estate Market Newsletter Ideas That Get Opened (2026)"
 description: "Real estate market newsletter ideas with AI: subject lines, data storytelling, and the monthly structure behind 40%+ open rates."
 ---

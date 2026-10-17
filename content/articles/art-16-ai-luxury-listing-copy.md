@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "AI for luxury listing copy: words worthy of the property — elevated descriptions, amenity storytelling, and high-end tone without cliches."
 ---
 

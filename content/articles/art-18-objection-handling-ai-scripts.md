@@ -1,8 +1,10 @@
 ---
+date: 2026-10-16
+updated: 2026-10-17
 description: "Objection handling with AI scripts: the agent's response playbook for stalls, commission pushback, and timing objections."
 ---
 
-# Objection Handling With AI Scripts: The Agent's Response Playbook (2026)
+# Objection Handling With AI: The Agent's Playbook (2026)
 
 *Meta: The 15 most common real estate objections — buyer and seller — with AI-built response frameworks. Never freeze on an objection again.*
 

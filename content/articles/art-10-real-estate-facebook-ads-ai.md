@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 description: "Real estate Facebook ads with AI: copy frameworks, hooks, and creative angles that convert scrollers into seller and buyer leads."
 ---
 

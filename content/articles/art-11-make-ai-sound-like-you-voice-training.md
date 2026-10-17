@@ -1,5 +1,7 @@
 ---
-title: "How to Make AI Sound Like You: Train ChatGPT on Your Writing Style (2026)"
+date: 2026-10-16
+updated: 2026-10-17
+title: "Make AI Sound Like You: Train ChatGPT on Your Style (2026)"
 description: "Make ChatGPT sound like you: the 3-minute voice training method that fixes robotic AI copy using your own writing samples."
 ---
 
