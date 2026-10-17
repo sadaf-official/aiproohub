@@ -44,6 +44,8 @@ Standardize excellence: a team library of approved prompts — listing descripti
 
 AI helps you BUILD the library: "Create our team's standard listing prompt: [your requirements, your voice standards, your compliance rules]." Then version it per specialty (luxury, first-time, investment).
 
+Take it one step further and [build the library into a custom team GPT](/blog/art-32-build-custom-real-estate-gpt-listings-follow-up.html) — one setup every agent uses, in your voice, with your compliance rules baked in.
+
 ## Onboarding New Agents (Days, Not Months)
 
 The AI-powered onboarding sequence:

@@ -67,6 +67,8 @@ Experience matters — but systems beat seniority when the systems are this good
 
 From our [top-10 list](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html), start with: voice training, bio writer, content calendar, caption writer, market stat transformer, DM responder, consultation agenda, follow-up email, review asker, and the "I'm new" announcement. All in the [pack](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
+Once these are working, stop re-typing the setup: [build a custom real estate GPT](/blog/art-32-build-custom-real-estate-gpt-listings-follow-up.html) that bakes in your voice and guardrails once, then writes every listing from property facts.
+
 ---
 
 *Related: [Complete Guide](/blog/ai-prompts-for-real-estate-agents.html) · [30-Day Content Plan](/blog/art-04-30-day-ai-content-plan-agents.html) · [ChatGPT vs Claude vs Gemini](/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html)*
