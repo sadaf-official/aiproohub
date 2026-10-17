@@ -5,9 +5,9 @@ description: "Video scripts for agents: AI-written Reels, TikTok, and Shorts scr
 
 # Video Scripts for Agents: Reels, TikTok & Shorts With AI (2026)
 
-*Meta: How real estate agents write video scripts with AI — hooks, 30-second formats, listing tours, educational videos, and the batch filming system.*
+*Meta: How real estate agents write video scripts with AI, hooks, 30-second formats, listing tours, educational videos, and the batch filming system.*
 
-Video is the highest-leverage content an agent can make — and the most avoided. "I don't know what to say" is the barrier. AI removes it: hooks, scripts, captions, all generated. You just film.
+Video is the highest-leverage content an agent can make, and the most avoided. "I don't know what to say" is the barrier. AI removes it: hooks, scripts, captions, all generated. You just film.
 
 ![Real estate agent filming Reels and TikTok video scripts with a phone gimbal](/assets/blog/art-17-video-scripts-agents-reels-tiktok.webp)
 
@@ -15,9 +15,9 @@ Video is the highest-leverage content an agent can make — and the most avoided
 
 Every short-form video follows the same architecture:
 
-- **0–3 sec — Hook.** Text on screen + spoken. Stop the scroll or die. ("This $450K house has a $700K kitchen.")
-- **3–25 sec — Value.** The tour, the tip, the story. One idea per video.
-- **25–30 sec — CTA.** One clear action. ("Follow for daily [city] tours." "DM 'GUIDE' for the checklist.")
+- **0–3 sec, Hook.** Text on screen + spoken. Stop the scroll or die. ("This $450K house has a $700K kitchen.")
+- **3–25 sec, Value.** The tour, the tip, the story. One idea per video.
+- **25–30 sec, CTA.** One clear action. ("Follow for daily [city] tours." "DM 'GUIDE' for the checklist.")
 
 AI writes 30 scripts in one session from this formula. The prompt:
 
@@ -31,11 +31,11 @@ AI writes 30 scripts in one session from this formula. The prompt:
 
 **3. Market updates.** Monthly numbers in 60 seconds. Your signature series.
 
-**4. Neighborhood tours.** Driving commentary — relocation buyers' favorite content.
+**4. Neighborhood tours.** Driving commentary, relocation buyers' favorite content.
 
 **5. Day-in-the-life.** Relatable authority. "8am: showing. 11am: negotiation. 3pm: closing gifts."
 
-**6. Educational.** "What is earnest money?" — 30-second explainers that get saved.
+**6. Educational.** "What is earnest money?", 30-second explainers that get saved.
 
 **7. POV/story.** "POV: your buyer just got the keys." Emotional, shareable.
 
@@ -73,7 +73,7 @@ Weekly Q&A lives: "Ask me anything about [city] real estate." AI prepares your q
 
 ## The Video Prompt Set
 
-Hook generator, 30-sec scripter, tour narrator, myth-buster writer, market update formatter, live Q&A prepper, caption writer — in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+Hook generator, 30-sec scripter, tour narrator, myth-buster writer, market update formatter, live Q&A prepper, caption writer, in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -88,7 +88,7 @@ You don't need a studio. The complete agent video kit:
 - **Natural light** (film facing windows; golden hour for exteriors)
 - **Free editing app** (CapCut) with saved templates
 
-Total: under $50 if you own a phone. AI writes the scripts; your phone does the rest. The agents with the best equipment don't win — the agents who publish consistently do.
+Total: under $50 if you own a phone. AI writes the scripts; your phone does the rest. The agents with the best equipment don't win, the agents who publish consistently do.
 
 ## Long-Form: YouTube (The Compounding Channel)
 
@@ -116,7 +116,7 @@ One filming session, five touchpoints. The [repurposing system](/blog/art-04-30-
 
 ## The Talking Head (Simplest Format, Highest Trust)
 
-No tour, no B-roll — just you, talking to camera, sharing one idea. The simplest video format and often the highest-converting:
+No tour, no B-roll, just you, talking to camera, sharing one idea. The simplest video format and often the highest-converting:
 
 **The setup:** phone at eye level, window light on your face, 60 seconds.
 
@@ -124,13 +124,13 @@ No tour, no B-roll — just you, talking to camera, sharing one idea. The simple
 
 **The topics:** market takes, myth-busting, tips, stories, opinions. AI generates 30 talking-head topics monthly: "Give me 30 talking-head video topics for a [city] realtor: mix of market, education, opinion, and personal."
 
-Talking heads build parasocial trust — followers feel they know you. When they're ready to transact, the known agent wins.
+Talking heads build parasocial trust, followers feel they know you. When they're ready to transact, the known agent wins.
 
 ## Collaborations (Borrowed Audiences)
 
 Film with others: lenders, stagers, inspectors, local business owners. AI plans the collab:
 
-**The format:** "Ask a lender" — 5 questions, 3 minutes. "Tour with a stager" — before/after commentary.
+**The format:** "Ask a lender", 5 questions, 3 minutes. "Tour with a stager", before/after commentary.
 
 **The outreach:** AI drafts the collaboration pitch: what's in it for them (exposure to your audience), the format, the time commitment (30 minutes).
 

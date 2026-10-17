@@ -5,9 +5,9 @@ description: "A 30-day AI content plan for real estate agents: daily prompts for
 
 # The 30-Day AI Content Plan for Real Estate Agents
 
-*Meta: A day-by-day 30-day content calendar for agents using AI — what to post, what prompts to use, and the batch-day system that produces it all in 4 hours.*
+*Meta: A day-by-day 30-day content calendar for agents using AI, what to post, what prompts to use, and the batch-day system that produces it all in 4 hours.*
 
-"What should I post today?" is the question that kills more agent marketing than any algorithm change. This plan answers it for the next 30 days — with the exact AI prompts to generate each piece and the batch-day system that produces the whole month in one 4-hour session.
+"What should I post today?" is the question that kills more agent marketing than any algorithm change. This plan answers it for the next 30 days, with the exact AI prompts to generate each piece and the batch-day system that produces the whole month in one 4-hour session.
 
 ![30-day AI content plan calendar with coffee and a model home on a real estate agent's desk](/assets/blog/art-04-30-day-ai-content-plan-agents.webp)
 
@@ -42,7 +42,7 @@ Seven content pillars, rotating forever. You'll never wonder "what do I post" ag
 ## Days 8–14: Momentum Week
 
 **Day 8:** "Buyer's vs. seller's market?" explainer from your inventory numbers.
-**Day 9:** Before/after listing copy (generic vs. engineered — show the difference).
+**Day 9:** Before/after listing copy (generic vs. engineered, show the difference).
 **Day 10:** "What is earnest money?" plain-English explainer.
 **Day 11:** Open house announcement sequence.
 **Day 12:** Neighborhood hidden gem.
@@ -52,7 +52,7 @@ Seven content pillars, rotating forever. You'll never wonder "what do I post" ag
 ## Days 15–21: Authority Week
 
 **Day 15:** Monthly market update video (script template).
-**Day 16:** CMA story — "how we priced this one."
+**Day 16:** CMA story, "how we priced this one."
 **Day 17:** "5 questions to ask at an open house."
 **Day 18:** Stager/vendor spotlight.
 **Day 19:** "Cost of waiting" analysis (rent vs. buy math).
@@ -63,7 +63,7 @@ Seven content pillars, rotating forever. You'll never wonder "what do I post" ag
 
 **Day 22:** "Thinking of selling? Here's what your home could be worth" (lead magnet post).
 **Day 23:** New listing launch blitz.
-**Day 24:** "What $500K buys in [city]" (comparison carousel — high share rate).
+**Day 24:** "What $500K buys in [city]" (comparison carousel, high share rate).
 **Day 25:** Behind-the-scenes: negotiation win (anonymized).
 **Day 26:** First-time buyer myth-busting.
 **Day 27:** Community event promo or recap.
@@ -75,15 +75,15 @@ Seven content pillars, rotating forever. You'll never wonder "what do I post" ag
 
 Don't create daily. Create monthly, in one session:
 
-**Hour 1 — Listings & authority (8 posts).** Run your listing prompts, market stat prompts, and explainer prompts. Save drafts.
+**Hour 1, Listings & authority (8 posts).** Run your listing prompts, market stat prompts, and explainer prompts. Save drafts.
 
-**Hour 2 — Social core (10 posts).** Content calendar prompt generates the captions; you add photos. Carousel outlines, Reel hooks, story ideas.
+**Hour 2, Social core (10 posts).** Content calendar prompt generates the captions; you add photos. Carousel outlines, Reel hooks, story ideas.
 
-**Hour 3 — Email & nurture (6 pieces).** Newsletter draft, 3 follow-up emails, 2 past-client touchpoints. ([Email sequences](/blog/art-14-real-estate-email-sequences-ai.html))
+**Hour 3, Email & nurture (6 pieces).** Newsletter draft, 3 follow-up emails, 2 past-client touchpoints. ([Email sequences](/blog/art-14-real-estate-email-sequences-ai.html))
 
-**Hour 4 — Ads & video (6 pieces).** Ad variations, video scripts, hooks. ([Video guide](/blog/art-17-video-scripts-agents-reels-tiktok.html), [Facebook ads](/blog/art-10-real-estate-facebook-ads-ai.html))
+**Hour 4, Ads & video (6 pieces).** Ad variations, video scripts, hooks. ([Video guide](/blog/art-17-video-scripts-agents-reels-tiktok.html), [Facebook ads](/blog/art-10-real-estate-facebook-ads-ai.html))
 
-Schedule everything. The rest of the month, you just engage with comments — 15 minutes a day.
+Schedule everything. The rest of the month, you just engage with comments, 15 minutes a day.
 
 ## Measuring What Matters
 
@@ -91,7 +91,7 @@ Track weekly: saves (intent), shares (reach), profile visits (interest), DMs (le
 
 ## The Prompt Stack Behind This Plan
 
-This entire 30-day plan runs on roughly 12 prompts: content calendar, caption writer, Reel scripter, carousel builder, market-stat transformer, explainer writer, story structurizer, testimonial adapter, hook generator, CTA writer, DM responder, and analytics summarizer. All twelve — plus 140 more — are in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free first](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+This entire 30-day plan runs on roughly 12 prompts: content calendar, caption writer, Reel scripter, carousel builder, market-stat transformer, explainer writer, story structurizer, testimonial adapter, hook generator, CTA writer, DM responder, and analytics summarizer. All twelve, plus 140 more, are in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free first](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -123,7 +123,7 @@ One idea, five touchpoints. Content multiplication is how small accounts look om
 
 AI customizes the 30-day plan to your type: "Adapt this content plan for a [buyer agent] in [market]: adjust the pillars and give me week 1's 7 posts."
 
-The plan isn't one-size-fits-all — it's one system, fitted to you.
+The plan isn't one-size-fits-all, it's one system, fitted to you.
 
 **[Get the content prompt stack →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**
 
@@ -135,7 +135,7 @@ The plan isn't one-size-fits-all — it's one system, fitted to you.
 
 **Move 3:** Schedule everything. Spend the week engaging, not creating.
 
-The system works if you work it — one batch day changes the month.
+The system works if you work it, one batch day changes the month.
 
 **[Get the content prompt stack →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**
 
@@ -143,4 +143,4 @@ The system works if you work it — one batch day changes the month.
 
 After 90 days on the plan, review: which pillars performed? Which formats flopped? AI analyzes your quarter: "Here's my 90-day content performance [stats]. Recommend next quarter's pillar mix and 3 new format experiments."
 
-The plan is a starting system, not a permanent one. Evolve it with your data — that's how a content plan becomes a content advantage.
+The plan is a starting system, not a permanent one. Evolve it with your data, that's how a content plan becomes a content advantage.

@@ -262,7 +262,7 @@ def article_page(meta, body_html):
 </div>
 <div class="cta-box">
 <h3>Write listings, ads &amp; emails in minutes</h3>
-<p>The <strong>AI Prompt Pack for Real Estate Agents</strong> gives you 202 copy-paste prompts built exclusively for real estate — $39, yours forever.</p>
+<p>The <strong>AI Prompt Pack for Real Estate Agents</strong> gives you 202 copy-paste prompts built exclusively for real estate, $39, yours forever.</p>
 <p class="mt"><a class="btn" href="/products/ai-prompts-real-estate-agents.html">See what's inside</a></p>
 </div>
 </section></main>
@@ -362,7 +362,7 @@ def main():
 
     # search index for client-side site search
     search_entries = [
-        {"title": "AI Prompt Pack for Real Estate Agents", "desc": "202 copy-paste AI prompts for real estate — $39 one-time.", "keywords": "prompt pack product buy prompts", "url": "/products/ai-prompts-real-estate-agents.html"},
+        {"title": "AI Prompt Pack for Real Estate Agents", "desc": "202 copy-paste AI prompts for real estate, $39 one-time.", "keywords": "prompt pack product buy prompts", "url": "/products/ai-prompts-real-estate-agents.html"},
         {"title": "About AIPrOoHub", "desc": "Who we are and what we build.", "keywords": "about team", "url": "/about.html"},
         {"title": "Contact AIPrOoHub", "desc": "Get in touch with the AIPrOoHub team.", "keywords": "contact email support", "url": "/contact.html"},
     ] + [

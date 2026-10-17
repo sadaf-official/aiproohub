@@ -6,9 +6,9 @@ description: "How to write MLS descriptions with AI, step by step: the prompt wo
 
 # How to Write MLS Descriptions With AI: Step-by-Step (2026)
 
-*Meta: The exact step-by-step process for writing MLS listing descriptions with AI — from fact-gathering to final review — in 10 minutes per listing.*
+*Meta: The exact step-by-step process for writing MLS listing descriptions with AI, from fact-gathering to final review, in 10 minutes per listing.*
 
-The MLS description is the hardest-working 180 words in real estate. It determines who clicks, who shows up, and often who offers. Here's the exact step-by-step process to write a great one with AI in 10 minutes — the same process behind our [10 essential listing prompts](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html).
+The MLS description is the hardest-working 180 words in real estate. It determines who clicks, who shows up, and often who offers. Here's the exact step-by-step process to write a great one with AI in 10 minutes, the same process behind our [10 essential listing prompts](/blog/art-06-10-ai-prompts-every-listing-agent-needs.html).
 
 ![Writing MLS descriptions with AI on a laptop showing an elegant home interior photo](/assets/blog/art-05-mls-descriptions-ai-step-by-step.webp)
 
@@ -18,20 +18,20 @@ Before touching AI, collect the raw material. Walk the property (or review your 
 
 - Address, beds, baths, square footage, lot size, year built
 - 3–5 standout features (the things buyers will remember)
-- 2–3 honest quirks (small kitchen, busy street — you'll frame them, not hide them)
+- 2–3 honest quirks (small kitchen, busy street, you'll frame them, not hide them)
 - Neighborhood anchors (walkable to X, near Y)
 - Price positioning (how it compares to nearby comps)
 
-AI can't invent your listing. Garbage in, garbage out — great facts in, great copy out.
+AI can't invent your listing. Garbage in, garbage out, great facts in, great copy out.
 
 ## Step 2: Choose Your Prompt Framework (1 minute)
 
 Match the prompt to the property:
 
 - **Standard home:** the hero listing prompt (role + facts + format + voice + guardrails)
-- **Luxury ($750K+):** the luxury adapter — elevated vocabulary, lifestyle framing ([luxury guide](/blog/art-16-ai-luxury-listing-copy.html))
-- **Fixer/unique:** the honest-framing prompt — turn quirks into character
-- **Stale listing:** the refresh prompt — new angle, new energy ([seasonal refresh](/blog/art-22-seasonal-listing-refresh-ai.html))
+- **Luxury ($750K+):** the luxury adapter, elevated vocabulary, lifestyle framing ([luxury guide](/blog/art-16-ai-luxury-listing-copy.html))
+- **Fixer/unique:** the honest-framing prompt, turn quirks into character
+- **Stale listing:** the refresh prompt, new angle, new energy ([seasonal refresh](/blog/art-22-seasonal-listing-refresh-ai.html))
 
 ## Step 3: Fill the Brackets, Generate (1 minute)
 
@@ -39,15 +39,15 @@ Paste your facts into the prompt's [BRACKET] fields. Example:
 
 > You are an experienced listing copywriter... Write a 180-word MLS description for [123 Maple St, 4bd/3ba Craftsman, 1925]. Key features: [original millwork, wraparound porch, 2023 chef's kitchen]. Tone: [warm, story-driven]. Fair-housing compliant: describe the property, never the people...
 
-Generate. Read the output once without editing — just feel it.
+Generate. Read the output once without editing, just feel it.
 
 ## Step 4: The 3-Pass Edit (4 minutes)
 
-**Pass 1 — Facts.** Verify every claim against your fact sheet. AI hallucinates: it will invent a "spacious backyard" you never mentioned. Delete or correct every unverified claim.
+**Pass 1, Facts.** Verify every claim against your fact sheet. AI hallucinates: it will invent a "spacious backyard" you never mentioned. Delete or correct every unverified claim.
 
-**Pass 2 — Voice.** Read it aloud. Does it sound like you? Adjust 2–3 phrases to your natural wording. (If you did the [3-minute voice training](/blog/art-11-make-ai-sound-like-you-voice-training.html), this pass takes seconds.)
+**Pass 2, Voice.** Read it aloud. Does it sound like you? Adjust 2–3 phrases to your natural wording. (If you did the [3-minute voice training](/blog/art-11-make-ai-sound-like-you-voice-training.html), this pass takes seconds.)
 
-**Pass 3 — Compliance.** Run the [fair-housing screen](/blog/art-02-fair-housing-safe-ai-listing-copy.html): no protected-class references, property described, people never described.
+**Pass 3, Compliance.** Run the [fair-housing screen](/blog/art-02-fair-housing-safe-ai-listing-copy.html): no protected-class references, property described, people never described.
 
 ## Step 5: Write the Opener Separately (1 minute)
 
@@ -57,17 +57,17 @@ The first sentence decides whether buyers keep reading. Generate 10 openers with
 - Story: "The sellers planted the magnolia out front the day they moved in, 31 years ago..."
 - Bold: "This isn't the nicest house on the street. It's the most interesting."
 
-Never "Welcome to..." — that's the pattern interrupt principle from our [headlines guide](/blog/art-24-headlines-that-get-clicks-ai.html).
+Never "Welcome to...", that's the pattern interrupt principle from our [headlines guide](/blog/art-24-headlines-that-get-clicks-ai.html).
 
 ## Step 6: Platform Adaptations (5 bonus minutes)
 
 One description doesn't fit all platforms. Chain the master description into:
 
-- **Zillow/Redfin version** — keyword-rich, feature-forward ([optimization guide](/blog/art-23-zillow-redfin-listing-optimization-ai.html))
-- **Instagram caption** — hook + 3 highlights + CTA
-- **Email announcement** — personal, story-driven ([email sequences](/blog/art-14-real-estate-email-sequences-ai.html))
+- **Zillow/Redfin version**, keyword-rich, feature-forward ([optimization guide](/blog/art-23-zillow-redfin-listing-optimization-ai.html))
+- **Instagram caption**, hook + 3 highlights + CTA
+- **Email announcement**, personal, story-driven ([email sequences](/blog/art-14-real-estate-email-sequences-ai.html))
 
-Each adaptation is one chained prompt — 60 seconds each.
+Each adaptation is one chained prompt, 60 seconds each.
 
 ## The 10-Minute Checklist
 
@@ -77,7 +77,7 @@ Each adaptation is one chained prompt — 60 seconds each.
 - [ ] Opener chosen from 10 options (1 min)
 - [ ] (Bonus) Platform adaptations chained (5 min)
 
-Total: 10 minutes for a description that used to take an hour — and reads better than the hour-long version, because the prompt doesn't get tired.
+Total: 10 minutes for a description that used to take an hour, and reads better than the hour-long version, because the prompt doesn't get tired.
 
 ## Common Pitfalls
 
@@ -89,7 +89,7 @@ Total: 10 minutes for a description that used to take an hour — and reads bett
 
 ## Get the Prompts (Don't Build Them Yourself)
 
-This entire process — the hero prompt, the opener generator, the luxury adapter, the refresh prompt, the compliance screener, the platform adapters — is pre-built in the [AI Prompt Pack for Real Estate Agents ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html): 200+ prompts, fill-in-the-bracket simple. [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html) including the hero listing prompt.
+This entire process, the hero prompt, the opener generator, the luxury adapter, the refresh prompt, the compliance screener, the platform adapters, is pre-built in the [AI Prompt Pack for Real Estate Agents ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html): 200+ prompts, fill-in-the-bracket simple. [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html) including the hero listing prompt.
 
 ---
 
@@ -101,11 +101,11 @@ This entire process — the hero prompt, the opener generator, the luxury adapte
 
 **New construction:** lead with "everything's new" + warranty + customization. "Never-lived-in, builder warranty, choose your finishes."
 
-**Fixer-uppers:** honest framing as opportunity. "Priced for renovation — contractors welcome." Never hide condition; price it fairly.
+**Fixer-uppers:** honest framing as opportunity. "Priced for renovation, contractors welcome." Never hide condition; price it fairly.
 
 **Land:** sell potential, disclose constraints. "Buildable 0.5 acre, utilities at street, survey available." AI writes the due-diligence checklist buyers need.
 
-**Luxury:** the [luxury framework](/blog/art-16-ai-luxury-listing-copy.html) — restraint, specificity, lifestyle.
+**Luxury:** the [luxury framework](/blog/art-16-ai-luxury-listing-copy.html), restraint, specificity, lifestyle.
 
 One master process, five adaptations. The prompt pack includes property-type variants for each.
 

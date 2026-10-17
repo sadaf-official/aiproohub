@@ -5,21 +5,21 @@ description: "The open house marketing playbook with AI: invitations, signage co
 
 # The Open House Marketing Playbook With AI (2026)
 
-*Meta: The complete AI-powered open house system — 2-week promotion sequence, day-of scripts, sign-in follow-up, and the neighbor strategy.*
+*Meta: The complete AI-powered open house system, 2-week promotion sequence, day-of scripts, sign-in follow-up, and the neighbor strategy.*
 
-The open house isn't dead — bad open house marketing is. A strategic open house with AI-powered promotion draws 30+ visitors and generates buyer leads for months. Here's the complete playbook.
+The open house isn't dead, bad open house marketing is. A strategic open house with AI-powered promotion draws 30+ visitors and generates buyer leads for months. Here's the complete playbook.
 
 ![Open house marketing with balloons as visitors arrive at a beautiful listed home](/assets/blog/art-12-open-house-marketing-ai-playbook.webp)
 
 ## Two Weeks Out: The Announcement Sequence
 
-**Day 14:** Social teaser. "Something special is coming to [street]..." — curiosity post, no photos yet.
+**Day 14:** Social teaser. "Something special is coming to [street]...", curiosity post, no photos yet.
 
 **Day 10:** Full announcement across all channels. AI writes: Instagram post + Reel script, Facebook event, email to your list, Nextdoor post.
 
-**Day 7:** Neighbor invitations. "You're invited to preview [address] before the public open house." Neighbors attend, neighbors talk, neighbors list with you. AI writes the invitation sequence — door hanger copy, letter, social post.
+**Day 7:** Neighbor invitations. "You're invited to preview [address] before the public open house." Neighbors attend, neighbors talk, neighbors list with you. AI writes the invitation sequence, door hanger copy, letter, social post.
 
-**Day 3:** Reminder push. "Sunday 1–4pm — 3 reasons to stop by." AI generates the reminder variants.
+**Day 3:** Reminder push. "Sunday 1–4pm, 3 reasons to stop by." AI generates the reminder variants.
 
 **Day 1:** Final countdown. Stories, reels, email reminder. "Tomorrow."
 
@@ -27,25 +27,25 @@ Every piece is one prompt away. The [22 open house prompts](https://aiproohub.co
 
 ## The Neighbor Strategy (The Secret Weapon)
 
-Invite the 50 nearest homes personally. Neighbors come out of curiosity — and 1 in 20 is thinking about selling. Your open house becomes a listing appointment generator.
+Invite the 50 nearest homes personally. Neighbors come out of curiosity, and 1 in 20 is thinking about selling. Your open house becomes a listing appointment generator.
 
 AI writes: the invitation letter, the door-knocker script, the follow-up "thanks for coming" note, and the "thinking of selling too?" soft pitch for interested neighbors.
 
 ## Day-Of: Scripts & Systems
 
-**Greeter script:** "Welcome! Sign in here — I'll give you the 60-second tour highlights, then explore at your pace." AI writes your natural, non-pushy greeter flow.
+**Greeter script:** "Welcome! Sign in here, I'll give you the 60-second tour highlights, then explore at your pace." AI writes your natural, non-pushy greeter flow.
 
-**Sign-in optimization:** name, phone, email, "are you working with an agent?", "what's your timeline?" — the 5 fields that matter. AI drafts the sign-in sheet intro that gets 90%+ completion.
+**Sign-in optimization:** name, phone, email, "are you working with an agent?", "what's your timeline?", the 5 fields that matter. AI drafts the sign-in sheet intro that gets 90%+ completion.
 
-**Property story cards:** one-page handouts per room — the story, not just the specs. "The sellers hosted 40 Thanksgivings in this dining room." AI writes them from your notes.
+**Property story cards:** one-page handouts per room, the story, not just the specs. "The sellers hosted 40 Thanksgivings in this dining room." AI writes them from your notes.
 
 ## The Follow-Up (Where the Money Is)
 
 **Sunday evening:** "Thanks for visiting [address]" text to every sign-in. AI drafts it warm and personal.
 
-**Monday:** property-specific follow-up: "You mentioned loving the kitchen — here's the renovation detail sheet."
+**Monday:** property-specific follow-up: "You mentioned loving the kitchen, here's the renovation detail sheet."
 
-**Wednesday:** the soft close: "Two more showings scheduled this week — want a second look before it's gone?"
+**Wednesday:** the soft close: "Two more showings scheduled this week, want a second look before it's gone?"
 
 **Ongoing:** non-buyers enter your nurture sequence ([email system](/blog/art-14-real-estate-email-sequences-ai.html)). Every open house attendee is a future client or referral.
 
@@ -59,7 +59,7 @@ Track: visitors, sign-in rate, follow-up response rate, second showings booked, 
 
 ## The Complete Open House Prompt Set
 
-Announcement sequencer, neighbor invitation writer, greeter scripter, story card builder, sign-in optimizer, follow-up automator, virtual tour narrator — 22 prompts in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+Announcement sequencer, neighbor invitation writer, greeter scripter, story card builder, sign-in optimizer, follow-up automator, virtual tour narrator, 22 prompts in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -67,11 +67,11 @@ Announcement sequencer, neighbor invitation writer, greeter scripter, story card
 
 ## Broker Opens (The Agent-to-Agent Playbook)
 
-Before the public open house, host a broker open — fellow agents are your best marketing channel. AI writes:
+Before the public open house, host a broker open, fellow agents are your best marketing channel. AI writes:
 
 - **The invitation:** "Broker open Thursday 11–1, lunch provided, $25 gift card drawing." Short, enticing, professional.
-- **The one-sheet:** property highlights formatted for agents to share with their buyers — the easier you make it, the more they share it.
-- **The follow-up:** "Thanks for coming — here's the showing link for your buyers." Sent same day.
+- **The one-sheet:** property highlights formatted for agents to share with their buyers, the easier you make it, the more they share it.
+- **The follow-up:** "Thanks for coming, here's the showing link for your buyers." Sent same day.
 
 Agents bring buyers. Feed them, impress them, follow up. The broker open is the highest-ROI two hours in listing marketing.
 
@@ -79,7 +79,7 @@ Agents bring buyers. Feed them, impress them, follow up. The broker open is the 
 
 AI even plans the sensory experience:
 
-- **Scent:** vanilla or citrus diffuser — never overpowering, always welcoming.
+- **Scent:** vanilla or citrus diffuser, never overpowering, always welcoming.
 - **Sound:** acoustic playlist at low volume (AI generates the Spotify search terms).
 - **Sight:** all lights on, all blinds open, fresh flowers at the entry.
 - **Taste:** bottled water with your branded label, individually wrapped treats.
@@ -95,7 +95,7 @@ Sunday night, 15 minutes. AI structures your debrief:
 - Follow-up assignments (who gets what, by when)
 - Marketing adjustments (new photos needed? price conversation with seller?)
 
-The debrief prompt turns raw notes into a seller update email — sent Sunday night, not "sometime next week." Sellers who hear from you Sunday night never wonder if you're working.
+The debrief prompt turns raw notes into a seller update email, sent Sunday night, not "sometime next week." Sellers who hear from you Sunday night never wonder if you're working.
 
 ## Open Houses as Content Engines
 
@@ -123,8 +123,8 @@ The open house is won in preparation. Three moves, one week, 30 visitors.
 
 ## The Mega Open House (Quarterly Event)
 
-Quarterly, go big: the multi-property open house event — 5 listings, one afternoon, food trucks, live music. AI plans the entire event: promotion, logistics, scripts, follow-up. One mega-event generates a quarter's worth of contacts in a day.
+Quarterly, go big: the multi-property open house event, 5 listings, one afternoon, food trucks, live music. AI plans the entire event: promotion, logistics, scripts, follow-up. One mega-event generates a quarter's worth of contacts in a day.
 
-*The open house is theater, system, and strategy in one. AI writes the script; you deliver the performance. Every visitor is a future client — treat the stage accordingly.*
+*The open house is theater, system, and strategy in one. AI writes the script; you deliver the performance. Every visitor is a future client, treat the stage accordingly.*
 
-Debrief every open house: what worked, what didn't, what to change. The playbook improves with every event. Great open houses aren't accidents — they're iterations.
+Debrief every open house: what worked, what didn't, what to change. The playbook improves with every event. Great open houses aren't accidents, they're iterations.

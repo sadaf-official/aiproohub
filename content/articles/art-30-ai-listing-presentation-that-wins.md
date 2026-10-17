@@ -5,23 +5,23 @@ description: "The AI listing presentation that wins: slides, scripts, and leave-
 
 # The AI Listing Presentation That Wins (2026)
 
-*Meta: How to build a winning listing presentation with AI — structure, marketing plan, CMA narrative, objection handling, and the close.*
+*Meta: How to build a winning listing presentation with AI, structure, marketing plan, CMA narrative, objection handling, and the close.*
 
-The listing presentation is the highest-stakes 25 minutes in real estate. Win it, and you earn $8,000–$25,000. AI helps you prepare like you've done it a hundred times — even if it's your tenth.
+The listing presentation is the highest-stakes 25 minutes in real estate. Win it, and you earn $8,000–$25,000. AI helps you prepare like you've done it a hundred times, even if it's your tenth.
 
 ![Agent delivering an AI-powered listing presentation that wins the listing](/assets/blog/art-30-ai-listing-presentation-that-wins.webp)
 
 ## The 25-Minute Structure
 
-**Minutes 0–2: You.** Not your resume — your difference. "I sell homes 12 days faster than the area average because of [specific system]." AI sharpens your positioning statement.
+**Minutes 0–2: You.** Not your resume, your difference. "I sell homes 12 days faster than the area average because of [specific system]." AI sharpens your positioning statement.
 
-**Minutes 2–7: The marketing plan.** This is what sellers buy. AI builds the customized plan: photography, copy, portals, social, ads, open houses, agent outreach — specific to THEIR home, not a template.
+**Minutes 2–7: The marketing plan.** This is what sellers buy. AI builds the customized plan: photography, copy, portals, social, ads, open houses, agent outreach, specific to THEIR home, not a template.
 
 **Minutes 7–17: The CMA narrative.** The pricing story ([full guide](/blog/art-13-cma-narratives-ai-pricing-stories.html)). Ten minutes that determine whether they trust your number.
 
 **Minutes 17–22: Objections.** Handled before they're raised: commission, timeline, "we're interviewing others." ([Objection frameworks](/blog/art-18-objection-handling-ai-scripts.html))
 
-**Minutes 22–25: The close.** The ask, the timeline, the next step. "If this plan makes sense, I'd love to get started Thursday — photography Friday, live Monday."
+**Minutes 22–25: The close.** The ask, the timeline, the next step. "If this plan makes sense, I'd love to get started Thursday, photography Friday, live Monday."
 
 ## The Pre-Presentation Research (AI-Powered)
 
@@ -48,7 +48,7 @@ Print it beautifully. Leave it behind. The agent with the printed plan beats the
 
 AI also art-directs your presentation:
 
-- **Cover:** their home's best photo, their address, your branding — personal from page one
+- **Cover:** their home's best photo, their address, your branding, personal from page one
 - **Data visualizations:** the CMA as charts, not spreadsheets
 - **Timeline:** the 30-day launch as a visual roadmap
 - **Leave-behind:** the one-page summary they'll show their spouse
@@ -57,13 +57,13 @@ The prompt: "Design direction for a listing presentation: [sections]. Modern, co
 
 ## The Follow-Up (Win After Leaving)
 
-**Same evening:** "Great meeting you today — here's the marketing plan we discussed [attached]."
+**Same evening:** "Great meeting you today, here's the marketing plan we discussed [attached]."
 
-**Day 2:** the personal touch — reference something they said. AI drafts from your notes.
+**Day 2:** the personal touch, reference something they said. AI drafts from your notes.
 
-**Day 5:** the market nudge — "A comparable home just went pending at [price]. The market's moving."
+**Day 5:** the market nudge, "A comparable home just went pending at [price]. The market's moving."
 
-**Day 10:** the direct close — "Have you decided? I'm ready to launch Thursday if you'd like."
+**Day 10:** the direct close, "Have you decided? I'm ready to launch Thursday if you'd like."
 
 Most listings are won in the follow-up, not the presentation. AI systematizes it.
 
@@ -75,7 +75,7 @@ Practice until it's conversational, not performed. Confidence is preparation mad
 
 ## The Presentation Prompt Set
 
-Research briefer, plan builder, CMA narrator, objection preparer, follow-up sequencer, role-play partner, design director — in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+Research briefer, plan builder, CMA narrator, objection preparer, follow-up sequencer, role-play partner, design director, in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -87,7 +87,7 @@ Research briefer, plan builder, CMA narrator, objection preparer, follow-up sequ
 
 **Day before:**
 - Research brief complete and reviewed (property, sellers, competition)
-- Marketing plan printed (3 copies — one for each decision-maker, one for you)
+- Marketing plan printed (3 copies, one for each decision-maker, one for you)
 - CMA narrative rehearsed aloud once (find the awkward phrases now)
 - Objection responses reviewed (commission, price, timeline)
 - Outfit chosen, materials packed, route planned
@@ -105,7 +105,7 @@ More sellers now take first meetings over video. AI adapts your presentation:
 
 **The setup:** camera at eye level, clean background, good lighting. AI writes your tech-check checklist.
 
-**The screen share:** your presentation as a visual deck — AI structures the slide flow (fewer words per slide than print).
+**The screen share:** your presentation as a visual deck, AI structures the slide flow (fewer words per slide than print).
 
 **The engagement:** video calls lose attention faster. AI builds interaction points: "Let me show you something interesting about your street..." every 5 minutes.
 
@@ -129,10 +129,10 @@ The listing is won before you walk in. Three moves, one week, more wins.
 
 **[Get the presentation prompts →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**
 
-*Preparation wins presentations. Research, plan, narrative, practice — AI accelerates all four. Walk in ready, walk out with the listing.*
+*Preparation wins presentations. Research, plan, narrative, practice, AI accelerates all four. Walk in ready, walk out with the listing.*
 
-Follow up like your income depends on it — because it does. The presentation opens the door; the follow-up walks through it. Most listings are won between meetings.
+Follow up like your income depends on it, because it does. The presentation opens the door; the follow-up walks through it. Most listings are won between meetings.
 
 The listing presentation is won in preparation. Research deeply, plan visibly, and let the seller feel the difference before you ever ask for the signature.
 
-Build the research brief before your next appointment. Preparation is visible — sellers feel the difference within minutes.
+Build the research brief before your next appointment. Preparation is visible, sellers feel the difference within minutes.

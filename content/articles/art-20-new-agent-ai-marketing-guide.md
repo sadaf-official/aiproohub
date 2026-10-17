@@ -6,9 +6,9 @@ description: "The new agent's AI marketing guide: go from zero to a working mark
 
 # New Agent AI Marketing Guide: Zero to System in 90 Days (2026)
 
-*Meta: The new real estate agent's guide to AI marketing — the 90-day plan, essential prompts, budget strategy, and how to compete with veterans from day one.*
+*Meta: The new real estate agent's guide to AI marketing, the 90-day plan, essential prompts, budget strategy, and how to compete with veterans from day one.*
 
-New agents face a brutal paradox: you need marketing to get clients, but you need clients to afford marketing. AI breaks the paradox — a complete marketing system for the cost of a few coffees a month. Here's your 90-day plan.
+New agents face a brutal paradox: you need marketing to get clients, but you need clients to afford marketing. AI breaks the paradox, a complete marketing system for the cost of a few coffees a month. Here's your 90-day plan.
 
 ![New real estate agent building a 90-day AI marketing system at a bright desk](/assets/blog/art-20-new-agent-ai-marketing-guide.webp)
 
@@ -20,17 +20,17 @@ New agents face a brutal paradox: you need marketing to get clients, but you nee
 
 **Week 3: Start publishing.** The [30-day content plan](/blog/art-04-30-day-ai-content-plan-agents.html), simplified: 3 posts a week. Market stats, educational tips, personal introductions.
 
-**Week 4: Build your list.** Every person you know goes into your CRM. AI writes your "I'm now in real estate" announcement — warm, confident, with a clear ask for introductions.
+**Week 4: Build your list.** Every person you know goes into your CRM. AI writes your "I'm now in real estate" announcement, warm, confident, with a clear ask for introductions.
 
 ## Days 31–60: Momentum
 
-**Listings (borrowed or your own):** practice the [10-minute listing process](/blog/art-05-mls-descriptions-ai-step-by-step.html) on every opportunity — including other agents' listings (with permission) for portfolio building.
+**Listings (borrowed or your own):** practice the [10-minute listing process](/blog/art-05-mls-descriptions-ai-step-by-step.html) on every opportunity, including other agents' listings (with permission) for portfolio building.
 
 **Open houses:** volunteer to host other agents' open houses. AI prepares your [open house marketing](/blog/art-12-open-house-marketing-ai-playbook.html). Every open house is 10+ new contacts.
 
 **Content cadence:** daily posting now. The batch-day system makes it sustainable.
 
-**First lead magnets:** "First-Time Buyer's Guide to [City]" — AI writes it, you gate it, leads flow.
+**First lead magnets:** "First-Time Buyer's Guide to [City]", AI writes it, you gate it, leads flow.
 
 ## Days 61–90: Conversion
 
@@ -38,7 +38,7 @@ New agents face a brutal paradox: you need marketing to get clients, but you nee
 
 **Objection preparation:** [role-play with AI](/blog/art-18-objection-handling-ai-scripts.html) before every appointment. New agents who practice close like veterans.
 
-**Referral seeding:** the [past-client system](/blog/art-14-real-estate-email-sequences-ai.html) starts now — even with 5 past contacts.
+**Referral seeding:** the [past-client system](/blog/art-14-real-estate-email-sequences-ai.html) starts now, even with 5 past contacts.
 
 **Review generation:** AI writes your review requests. Five-star reviews from day one compound forever.
 
@@ -61,7 +61,7 @@ Veterans have experience; you have speed. AI multiplies speed:
 - **Hungrier follow-up:** AI sequences make your follow-up relentless.
 - **Niche down:** new agents win by specializing (first-time buyers, a neighborhood, a language). AI builds your niche content overnight.
 
-Experience matters — but systems beat seniority when the systems are this good.
+Experience matters, but systems beat seniority when the systems are this good.
 
 ## The 10 Prompts New Agents Need First
 
@@ -87,11 +87,11 @@ Join for the training, not the split. A 50/50 split with great mentorship beats 
 
 ## First-Year Pitfalls (and AI Safeguards)
 
-**Shiny object syndrome:** new tool every week. Safeguard: the [one-tool rule](/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html) — master one before adding another.
+**Shiny object syndrome:** new tool every week. Safeguard: the [one-tool rule](/blog/chatgpt-vs-claude-vs-gemini-for-realtors.html), master one before adding another.
 
 **No follow-up system:** leads leak. Safeguard: sequences built in week 1 ([email system](/blog/art-14-real-estate-email-sequences-ai.html)).
 
-**Generic branding:** "I help buyers and sellers." Safeguard: AI niche-finder — "based on my background [details], suggest 5 specific niches and the content angle for each."
+**Generic branding:** "I help buyers and sellers." Safeguard: AI niche-finder, "based on my background [details], suggest 5 specific niches and the content angle for each."
 
 **Inconsistent content:** 2 weeks on, 2 months off. Safeguard: the batch-day system ([30-day plan](/blog/art-04-30-day-ai-content-plan-agents.html)).
 
@@ -99,9 +99,9 @@ Join for the training, not the split. A 50/50 split with great mentorship beats 
 
 ## Your Year-One Scorecard
 
-Track monthly: conversations started, consultations held, content published, email list growth, reviews earned. Not just closings — the activities that produce closings. AI builds your tracking sheet and your monthly review prompt: "Analyze my month: [paste numbers]. What's working, what's not, what should I change?"
+Track monthly: conversations started, consultations held, content published, email list growth, reviews earned. Not just closings, the activities that produce closings. AI builds your tracking sheet and your monthly review prompt: "Analyze my month: [paste numbers]. What's working, what's not, what should I change?"
 
-The agents who track improve. The agents who improve compound. Year one isn't about being the best — it's about building the machine that makes you the best in year three.
+The agents who track improve. The agents who improve compound. Year one isn't about being the best, it's about building the machine that makes you the best in year three.
 
 **[Get the new-agent prompt starter set →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**
 
@@ -113,19 +113,19 @@ New agents try to look experienced. Smart new agents document the journey:
 
 **"Touring my first luxury listing (as the agent)."** Behind-the-scenes access followers love.
 
-**"I got my first listing — here's exactly what I did."** Process transparency that teaches and inspires.
+**"I got my first listing, here's exactly what I did."** Process transparency that teaches and inspires.
 
 AI structures your raw experiences into compelling narratives: "Turn these notes [paste] into a learning-in-public post: honest, specific, inspiring. No humble-bragging."
 
-Experienced agents can't do this — they're past it. Your newness is content they can't replicate. Use it.
+Experienced agents can't do this, they're past it. Your newness is content they can't replicate. Use it.
 
 ## Building Your First 100 Followers (The Manual Phase)
 
 Before algorithms, there's manual:
 
-- **Your phone contacts:** personal messages, not mass blasts. "Hey! I'm now selling real estate in [city] — would love your support on Instagram."
+- **Your phone contacts:** personal messages, not mass blasts. "Hey! I'm now selling real estate in [city], would love your support on Instagram."
 - **Local engagement:** 10 genuine comments daily on community accounts.
-- **Value DMs:** "Saw you're renting in [area] — I made a free guide that might help. Want it?"
+- **Value DMs:** "Saw you're renting in [area], I made a free guide that might help. Want it?"
 - **In-person:** every conversation ends with "are we connected on Instagram?"
 
 AI drafts the outreach templates; your sincerity delivers them. First 100 followers are hand-built. The next 1,000 come from content.
@@ -142,6 +142,6 @@ AI drafts the outreach templates; your sincerity delivers them. First 100 follow
 
 **Year 1:** the compound effect is undeniable. New agents who started the same week you did are invisible; you're established.
 
-Everyone starts at zero. The difference is who starts — and who keeps going.
+Everyone starts at zero. The difference is who starts, and who keeps going.
 
 **[Get the new-agent starter prompts →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**

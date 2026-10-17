@@ -1,29 +1,29 @@
 ---
 date: 2026-10-16
-description: "Real estate email sequences with AI: the complete system — nurture, re-engagement, and post-closing drips that keep your pipeline warm."
+description: "Real estate email sequences with AI: the complete system, nurture, re-engagement, and post-closing drips that keep your pipeline warm."
 ---
 
 # Real Estate Email Sequences With AI: The Complete System (2026)
 
-*Meta: The complete AI-powered email system for real estate agents — new lead follow-up, post-showing, past-client nurture, referral sequences, and the templates.*
+*Meta: The complete AI-powered email system for real estate agents, new lead follow-up, post-showing, past-client nurture, referral sequences, and the templates.*
 
-Email is the highest-ROI channel in real estate — and the most neglected. These sequences, all AI-draftable in minutes, turn your inbox from chaos into a closing machine.
+Email is the highest-ROI channel in real estate, and the most neglected. These sequences, all AI-draftable in minutes, turn your inbox from chaos into a closing machine.
 
 ![Real estate email sequences managed in a laptop inbox with warm morning light](/assets/blog/art-14-real-estate-email-sequences-ai.webp)
 
 ## Sequence 1: New Lead Follow-Up (Speed + Substance)
 
-**Minute 0 (automated):** "Thanks for your interest in [property]! I'm pulling the details now — expect my personal note in the next hour." (AI template, instant send.)
+**Minute 0 (automated):** "Thanks for your interest in [property]! I'm pulling the details now, expect my personal note in the next hour." (AI template, instant send.)
 
 **Hour 1 (personal):** the property details + 2 similar options + your availability. AI drafts from the listing; you add the personal touch.
 
 **Day 2:** "Did the photos do it justice? I can get you in this week." Short, warm, one question.
 
-**Day 5:** value-add — market insight relevant to their search. "Two similar homes went pending this week — the market's moving."
+**Day 5:** value-add, market insight relevant to their search. "Two similar homes went pending this week, the market's moving."
 
-**Day 10:** the soft check — "Still searching? I've got 3 new options that match your criteria."
+**Day 10:** the soft check, "Still searching? I've got 3 new options that match your criteria."
 
-**Day 21:** the breakup email — "Should I keep sending matches, or has your search changed?" (Breakup emails get the highest reply rates of any sequence.)
+**Day 21:** the breakup email, "Should I keep sending matches, or has your search changed?" (Breakup emails get the highest reply rates of any sequence.)
 
 ## Sequence 2: Post-Showing Follow-Up
 
@@ -37,7 +37,7 @@ AI drafts all three from your showing notes. Ten minutes total.
 
 ## Sequence 3: Past-Client Nurture (The Referral Engine)
 
-**Quarterly check-in:** "Hi [name]! Thinking of you — how's [address]? Quick market snapshot: your neighborhood [1 stat]."
+**Quarterly check-in:** "Hi [name]! Thinking of you, how's [address]? Quick market snapshot: your neighborhood [1 stat]."
 
 **Home anniversary:** "Happy 2nd home-iversary! Your equity update: [numbers]."
 
@@ -53,7 +53,7 @@ For "maybe next year" sellers: monthly market updates specific to their neighbor
 
 ## Sequence 5: Sphere of Influence (Monthly Value)
 
-One valuable email monthly to your entire sphere: market insight, community news, helpful homeowner tip. Never salesy — always valuable. The agents top-of-mind are the agents who show up monthly with value.
+One valuable email monthly to your entire sphere: market insight, community news, helpful homeowner tip. Never salesy, always valuable. The agents top-of-mind are the agents who show up monthly with value.
 
 ## Writing Emails People Open
 
@@ -61,13 +61,13 @@ One valuable email monthly to your entire sphere: market insight, community news
 
 **Preview text:** the second subject line. AI writes it to complement, not repeat.
 
-**Body:** short paragraphs, one idea per email, one CTA. Mobile-first — 70% read on phones.
+**Body:** short paragraphs, one idea per email, one CTA. Mobile-first, 70% read on phones.
 
 **Send times:** Tuesday–Thursday, 8–10am local. Test with your list.
 
 ## The 24 Email Prompts
 
-All five sequences plus: referral requests, review asks, price improvement notices, closing congratulations, holiday cards, re-engagement campaigns, FSBO follow-ups, expired follow-ups, lender introductions, vendor referrals, and 9 more — in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+All five sequences plus: referral requests, review asks, price improvement notices, closing congratulations, holiday cards, re-engagement campaigns, FSBO follow-ups, expired follow-ups, lender introductions, vendor referrals, and 9 more, in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -75,15 +75,15 @@ All five sequences plus: referral requests, review asks, price improvement notic
 
 ## Sequence 6: The Win-Back (Dormant Leads)
 
-Leads gone cold for 90+ days aren't dead — they're dormant. The 3-email win-back:
+Leads gone cold for 90+ days aren't dead, they're dormant. The 3-email win-back:
 
-**Email 1 — Value:** "The market shifted since we last talked — here's what changed for [their criteria]."
+**Email 1, Value:** "The market shifted since we last talked, here's what changed for [their criteria]."
 
-**Email 2 — Social proof:** "Just helped a buyer in [their situation] — thought of you."
+**Email 2, Social proof:** "Just helped a buyer in [their situation], thought of you."
 
-**Email 3 — Direct:** "Should I keep you on my new-listing alerts, or has your timeline changed?"
+**Email 3, Direct:** "Should I keep you on my new-listing alerts, or has your timeline changed?"
 
-AI personalizes all three from your CRM notes. Win-back campaigns routinely revive 5–10% of dormant leads — the cheapest "new" leads you'll ever get.
+AI personalizes all three from your CRM notes. Win-back campaigns routinely revive 5–10% of dormant leads, the cheapest "new" leads you'll ever get.
 
 ## Deliverability: Actually Reaching the Inbox
 
@@ -109,15 +109,15 @@ Forty-five minutes a week. Every relationship nurtured. Every lead followed up. 
 
 ## The Referral Request (The Art of the Ask)
 
-Referrals are the lifeblood — and the ask is the art. AI crafts asks that feel natural:
+Referrals are the lifeblood, and the ask is the art. AI crafts asks that feel natural:
 
 **The closing-table ask:** "If you know anyone thinking about moving, I'd be honored by the introduction. Most of my business comes from clients like you."
 
-**The check-in ask:** "Quick favor — who's the next person in your circle likely to move? I'd love to help them the way I helped you."
+**The check-in ask:** "Quick favor, who's the next person in your circle likely to move? I'd love to help them the way I helped you."
 
 **The value-first ask:** after delivering value (market update, equity report): "Glad this helped! If anyone you know could use the same, I'm one introduction away."
 
-**The event ask:** at client parties: "Bring a friend who's thinking about moving — I'll do free home valuations all evening."
+**The event ask:** at client parties: "Bring a friend who's thinking about moving, I'll do free home valuations all evening."
 
 The prompt: "Write 5 referral asks for [situation]: warm, natural, never pushy. Each under 40 words. In my voice [trained]."
 

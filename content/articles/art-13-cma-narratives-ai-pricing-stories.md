@@ -5,9 +5,9 @@ title: "How to Present a CMA: AI Narratives That Win Listings (2026)"
 description: "Present your CMA like a story, not a spreadsheet: AI-crafted pricing narratives that help sellers trust your number and list with you."
 ---
 
-*Meta: How to turn comparative market analyses into compelling pricing narratives with AI — the story-driven CMA that wins listings at full commission.*
+*Meta: How to turn comparative market analyses into compelling pricing narratives with AI, the story-driven CMA that wins listings at full commission.*
 
-The traditional CMA is a 40-page comp printout that makes sellers' eyes glaze over. The AI-powered CMA is a pricing STORY — with a beginning, a middle, and a number the seller believes in. Guess which one wins listings.
+The traditional CMA is a 40-page comp printout that makes sellers' eyes glaze over. The AI-powered CMA is a pricing STORY, with a beginning, a middle, and a number the seller believes in. Guess which one wins listings.
 
 ![Agent presenting a CMA pricing narrative with charts to sellers at their kitchen table](/assets/blog/art-13-cma-narratives-ai-pricing-stories.webp)
 
@@ -17,13 +17,13 @@ Sellers don't buy comps; they buy confidence. A stack of numbers says "here's da
 
 ## The 4-Part CMA Narrative Structure
 
-**Part 1 — The market story:** "Maplewood has shifted. Inventory is up 15%, but well-priced homes still sell in 12 days. The market isn't cold — it's selective."
+**Part 1, The market story:** "Maplewood has shifted. Inventory is up 15%, but well-priced homes still sell in 12 days. The market isn't cold, it's selective."
 
-**Part 2 — The comp story:** Not just 5 comps — the story of each. "123 Oak sold for $510K in 9 days because of the renovated kitchen. 456 Pine sat for 60 days at $540K because it was overpriced from day one."
+**Part 2, The comp story:** Not just 5 comps, the story of each. "123 Oak sold for $510K in 9 days because of the renovated kitchen. 456 Pine sat for 60 days at $540K because it was overpriced from day one."
 
-**Part 3 — Your home's story:** "Your home has Oak's kitchen and Pine's lot — positioned at $525K, it's the best value in the neighborhood."
+**Part 3, Your home's story:** "Your home has Oak's kitchen and Pine's lot, positioned at $525K, it's the best value in the neighborhood."
 
-**Part 4 — The strategy story:** "We launch Thursday, broker open Friday, public open house weekend. Priced at $525K, we expect 8–12 showings and offers by Tuesday."
+**Part 4, The strategy story:** "We launch Thursday, broker open Friday, public open house weekend. Priced at $525K, we expect 8–12 showings and offers by Tuesday."
 
 AI drafts all four parts from your comp data. You refine with your local knowledge.
 
@@ -41,7 +41,7 @@ Respect the emotion, lead with math. The seller who understands the number defen
 
 ## The Pricing Conversation (AI-Prepared)
 
-**Overpriced seller:** the "pricing experiment" proposal — "Let's test $550K for 14 days with these marketing commitments, then reassess with showing data." AI drafts the proposal.
+**Overpriced seller:** the "pricing experiment" proposal, "Let's test $550K for 14 days with these marketing commitments, then reassess with showing data." AI drafts the proposal.
 
 **Underpriced fear:** "Priced at market, we create competition. Competition creates over-asking offers." AI builds the comparable examples.
 
@@ -49,7 +49,7 @@ Respect the emotion, lead with math. The seller who understands the number defen
 
 ## Visual CMA Summaries
 
-AI also structures the one-page visual summary: the number, the 3 supporting comps, the strategy — designed for the seller to photograph and show their spouse. The prompts include formatting instructions for maximum clarity.
+AI also structures the one-page visual summary: the number, the 3 supporting comps, the strategy, designed for the seller to photograph and show their spouse. The prompts include formatting instructions for maximum clarity.
 
 ## The Listing Presentation Flow
 
@@ -65,7 +65,7 @@ Twenty-five minutes. Structured. Confident. The listing is yours.
 
 ## Win More Listings
 
-CMA narratives, pricing conversations, objection handlers, presentation builders — in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
+CMA narratives, pricing conversations, objection handlers, presentation builders, in the [AI Prompt Pack ($39)](https://aiproohub.com/products/ai-prompts-real-estate-agents.html). [Try 15 free](https://aiproohub.com/products/ai-prompts-real-estate-agents.html).
 
 ---
 
@@ -77,7 +77,7 @@ When the market speaks and the price must move, AI helps you deliver the news wi
 
 > "Draft a price improvement conversation for [address]: current price, days on market, showing feedback themes, comparable price reductions, and 3 new-price options with projected outcomes. Tone: collaborative strategist, not bearer of bad news. Include the repositioning announcement copy."
 
-The key reframe: it's not a "reduction" (defeat) — it's a "repositioning" (strategy). AI writes the announcement that re-energizes the listing: new price, new photos, new story. Buyers who passed at the old price reconsider at the new one.
+The key reframe: it's not a "reduction" (defeat), it's a "repositioning" (strategy). AI writes the announcement that re-energizes the listing: new price, new photos, new story. Buyers who passed at the old price reconsider at the new one.
 
 ## Preparing for the Appraisal Gap
 
@@ -97,7 +97,7 @@ Don't reserve CMAs for listings. AI makes annual equity CMAs effortless:
 
 > "Build a one-page equity update for [past client, address]: estimated current value, original purchase price, equity gained, and 3 options (stay, refinance, sell). Warm, celebratory tone."
 
-Send every January. Past clients who see their equity grow think of you when they're ready to move — and tell their friends. The [past-client system](/blog/art-14-real-estate-email-sequences-ai.html) automates the whole thing.
+Send every January. Past clients who see their equity grow think of you when they're ready to move, and tell their friends. The [past-client system](/blog/art-14-real-estate-email-sequences-ai.html) automates the whole thing.
 
 **[Get the CMA + pricing prompt set →](https://aiproohub.com/products/ai-prompts-real-estate-agents.html)**
 
@@ -115,8 +115,8 @@ Stories win listings. Three moves, one week, more signed agreements.
 
 ## The Pre-Listing CMA (Winning Before the Appointment)
 
-Send a mini-CMA before the listing appointment: "I prepared some preliminary numbers — we'll dive deep Thursday." AI builds the teaser version. Walking in with homework done signals the diligence they'll get as clients.
+Send a mini-CMA before the listing appointment: "I prepared some preliminary numbers, we'll dive deep Thursday." AI builds the teaser version. Walking in with homework done signals the diligence they'll get as clients.
 
-*Numbers tell; stories sell. The CMA narrative turns your data into the seller's confidence — and confident sellers sign at the right price, with the right agent.*
+*Numbers tell; stories sell. The CMA narrative turns your data into the seller's confidence, and confident sellers sign at the right price, with the right agent.*
 
-Save every winning CMA narrative. They become your proof library — "here's how I priced the last five." Past precision sells future confidence.
+Save every winning CMA narrative. They become your proof library, "here's how I priced the last five." Past precision sells future confidence.
