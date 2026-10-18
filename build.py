@@ -199,7 +199,7 @@ def head_tags(title, description, url, og_type="website", keywords="", og_image=
     return f"""<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://www.googletagmanager.com; connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://static.cloudflareinsights.com https://cloudflareinsights.com; font-src 'self'; base-uri 'self'; form-action 'self' mailto:; object-src 'none'">
-<title>{html.escape(title)} — AIPrOoHub</title>
+<title>{html.escape(title)} | AIPrOoHub</title>
 <meta name="description" content="{html.escape(description)}">{kw}
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="{og_type}">
@@ -287,7 +287,7 @@ def blog_index(articles):
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
-{head_tags("Blog — AI tips for real estate agents", "Practical guides on using AI for real estate marketing: listing copy, ads, social media, and client emails.", url, og_image=f"{SITE_URL}/assets/og-cover.jpg")}
+{head_tags("Blog | AI tips for real estate agents", "Practical guides on using AI for real estate marketing: listing copy, ads, social media, and client emails.", url, og_image=f"{SITE_URL}/assets/og-cover.jpg")}
 <script type="application/ld+json">{blog_schema}</script>
 </head>
 <body>
