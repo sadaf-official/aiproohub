@@ -198,6 +198,7 @@ def head_tags(title, description, url, og_type="website", keywords="", og_image=
         og_img = f'''\n<meta property="og:image" content="{og_image}">\n<meta name="twitter:image" content="{og_image}">'''
     return f"""<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="p:domain_verify" content="61c90f39b25a6806474406518e975bbb">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' https://www.googletagmanager.com; connect-src 'self' https://www.googletagmanager.com https://www.google-analytics.com https://region1.google-analytics.com https://static.cloudflareinsights.com https://cloudflareinsights.com; font-src 'self'; base-uri 'self'; form-action 'self' mailto:; object-src 'none'">
 <title>{html.escape(title)} | AIPrOoHub</title>
 <meta name="description" content="{html.escape(description)}">{kw}
